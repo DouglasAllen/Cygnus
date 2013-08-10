@@ -10,7 +10,7 @@
 ===
 [*Auriga*](http://www.google.com/imgres?imgurl=http://upload.wikimedia.org/wikipedia/commons/c/c2/Auriga_constellation_map.png&imgrefurl=http://commons.wikimedia.org/wiki/File:Auriga_constellation_map.png&h=225&w=225&sz=1&tbnid=rZnSEWV1YD97wM:&tbnh=186&tbnw=186&zoom=1&usg=__ZyaV2FlVuE3fJmHZ3wQC9YDyvHw=&docid=aathwIegYFjukM&itg=1&sa=X&ei=lbgFUviOBafF2AXYtoHADg&ved=0CMEBEPwdMAo)
 ===
-[*Bootes*](http://www.google.com/imgres?imgurl=http://upload.wikimedia.org/wikipedia/commons/f/f6/Draco_constellation_map_ru_lite.png&imgrefurl=http://commons.wikimedia.org/wiki/File:Draco_constellation_map_ru_lite.png&h=2100&w=2100&sz=236&tbnid=Q4UGZAVb3uefXM:&tbnh=90&tbnw=90&zoom=1&usg=__6XC8p5HoNefiYAzg7zlOSXyC7ec=&docid=ZCZ-02k-_sSMDM&sa=X&ei=1LUFUvy6C-jh2wWuyIC4Dw&ved=0CD8Q9QEwAg&dur=73)
+[*Bootes*](http://www.google.com/imgres?newwindow=1&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=IlUU0FFN726JpM:&imgrefurl=https://commons.wikimedia.org/wiki/File:Bo%25C3%25B6tes_constellation_map.svg&docid=Fwc9dc7wllNz0M&imgurl=https://upload.wikimedia.org/wikipedia/commons/4/40/Bo%2525C3%2525B6tes_constellation_map.svg&w=2000&h=2573&ei=q78FUtKTD4isyAGK1oHYDw&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=207&tbnw=161&start=0&ndsp=14&tx=87&ty=101)
 ===
 [*Cepheus*](http://www.google.com/imgres?imgurl=http://www.seasky.org/constellations/assets/images/cepheus.gif&imgrefurl=http://www.seasky.org/constellations/constellations-october.html&h=280&w=280&sz=3&tbnid=JlR5M50-FG3XNM:&tbnh=105&tbnw=105&zoom=1&usg=__9oul1XP2vpWMZ1KizDwzpd6csKA=&docid=X4i5CMA2xSXikM&sa=X&ei=grQFUrOBGanP2AXYg4HADg&ved=0CJgBEP4dMAw#imgdii=JlR5M50-FG3XNM%3A%3BhJ0DpvaHN7JHDM%3BJlR5M50-FG3XNM%3A)
 ===
