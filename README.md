@@ -64,6 +64,18 @@
 
 -
 
+[Equuleus](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=joOoe0jUtmDZTM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Equuleus_constellation_map.png&docid=4YLGqz3kwfDaPM&imgurl=http://upload.wikimedia.org/wikipedia/commons/d/d6/Equuleus_constellation_map.png&w=1789&h=1989&ei=3eQGUo3VIZKByQGvk4GYAg&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=178&tbnw=160&start=0&ndsp=15&tx=68&ty=70)
+
+[Eridanus](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=LyOCm3LB8VQvLM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Eridanus_constellation_map.png&docid=obycN1ZAgSPr6M&imgurl=http://upload.wikimedia.org/wikipedia/commons/2/28/Eridanus_constellation_map.png&w=2559&h=3119&ei=BOUGUvHNH8jhyQGNm4GwDw&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=186&tbnw=152&start=0&ndsp=15&tx=65&ty=83)
+
+[Fornax](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=NADNQrBOcWA5bM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Fornax_constellation_map.png&docid=tk1iDzLO-DgftM&imgurl=http://upload.wikimedia.org/wikipedia/commons/5/5c/Fornax_constellation_map.png&w=2559&h=1709&ei=XeUGUu_mNaPuyAHv2oFQ&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=178&tbnw=267&start=0&ndsp=15&tx=115&ty=83)
+
+-
+
+[Grus](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=VaETi36cWrxjCM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Grus_constellation_map.png&docid=RedfoZarh5gKdM&imgurl=http://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Grus_constellation_map.png/1024px-Grus_constellation_map.png&w=1024&h=1024&ei=j-UGUvm6G-SQyAGT7oDgDw&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=189&tbnw=189&start=0&ndsp=13&tx=104&ty=61)
+
+-
+
 [*Ursa major*](http://www.google.com/imgres?newwindow=1&sa=X&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=cEelFWj63GBgyM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Ursa_Minor_constellation_map.png&docid=ZRHW1lQRu_JdJM&imgurl=http://upload.wikimedia.org/wikipedia/commons/0/04/Ursa_Minor_constellation_map.png&w=1989&h=1989&ei=5LkFUputNs6EygG4ioG4Dw&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=194&tbnw=194&start=0&ndsp=14&tx=80&ty=62#imgdii=cEelFWj63GBgyM%3A%3Bw49DEXOnKDvaAM%3BcEelFWj63GBgyM%3A)
 
 [*Ursa minor*](http://www.google.com/imgres?newwindow=1&sa=X&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=cEelFWj63GBgyM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Ursa_Minor_constellation_map.png&docid=ZRHW1lQRu_JdJM&imgurl=http://upload.wikimedia.org/wikipedia/commons/0/04/Ursa_Minor_constellation_map.png&w=1989&h=1989&ei=5LkFUputNs6EygG4ioG4Dw&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=194&tbnw=194&start=0&ndsp=14&tx=80&ty=62)
