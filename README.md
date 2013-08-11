@@ -30,7 +30,7 @@
 
 [*Centaurus*](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=nvZpNloWuZsVTM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Centaurus_constellation_map.png&docid=P65hsBHLaU8nmM&imgurl=http://upload.wikimedia.org/wikipedia/commons/6/6b/Centaurus_constellation_map.png&w=2559&h=2559&ei=9-UFUqHRDIWIyAHxz4FQ&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=181&tbnw=181&start=0&ndsp=15&tx=86&ty=64)
 
-[*Cepheus*](http://www.google.com/imgres?imgurl=http://www.seasky.org/constellations/assets/images/cepheus.gif&imgrefurl=http://www.seasky.org/constellations/constellations-october.html&h=280&w=280&sz=3&tbnid=JlR5M50-FG3XNM:&tbnh=105&tbnw=105&zoom=1&usg=__9oul1XP2vpWMZ1KizDwzpd6csKA=&docid=X4i5CMA2xSXikM&sa=X&ei=grQFUrOBGanP2AXYg4HADg&ved=0CJgBEP4dMAw#imgdii=JlR5M50-FG3XNM%3A%3BhJ0DpvaHN7JHDM%3BJlR5M50-FG3XNM%3A)
+[*Cepheus*](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=icKsfiFl-2L-uM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Cepheus_constellation_map.png&docid=sC3fTt2GUEvjrM&imgurl=http://upload.wikimedia.org/wikipedia/commons/6/69/Cepheus_constellation_map.png&w=2559&h=3119&ei=auMGUv7yJpD-2QXJpIC4Cw&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=184&tbnw=151&start=0&ndsp=15&tx=70&ty=75)
 
 [*Cetus*](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=fuvLmSqwEs-MDM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Cetus_constellation_map.png&docid=2hkHQ92Kkj2T7M&imgurl=http://upload.wikimedia.org/wikipedia/commons/1/16/Cetus_constellation_map.png&w=2559&h=2049&ei=G-YFUuzPIIuAygH43IDAAg&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=191&tbnw=239&start=0&ndsp=12&tx=102&ty=56)
 
