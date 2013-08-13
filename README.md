@@ -4,6 +4,8 @@
 
 [*Apus*](http://www.google.com/imgres?newwindow=1&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=h5ur1cjEtVRQ3M:&imgrefurl=http://commons.wikimedia.org/wiki/File:Apus_constellation_map.png&docid=ilTgdQ5Dzp2r_M&imgurl=http://upload.wikimedia.org/wikipedia/commons/9/94/Apus_constellation_map.png&w=2559&h=2559&ei=W7wFUuiHG4f7yAH5g4C4Aw&zoom=1&ved=1t:3588,r:1,s:0,i:83&iact=rc&page=1&tbnh=184&tbnw=184&start=0&ndsp=15&tx=83&ty=91)
 
+[Aquarius](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbm=isch&tbnid=QR6l0owdYcwIHM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Aquarius_constellation_map_ru_lite.png&docid=8Il-A_FMnMXiAM&imgurl=http://upload.wikimedia.org/wikipedia/commons/5/56/Aquarius_constellation_map_ru_lite.png&w=2100&h=2100&ei=OZYJUvjOAsKGyAHEq4C4DA&zoom=1&ved=1t:3588,r:1,s:0,i:91&iact=rc&page=1&tbnh=199&tbnw=199&start=0&ndsp=9&tx=89&ty=84)
+
 [*Aquila*](http://www.google.com/imgres?newwindow=1&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=EZy4BpTB5z3bZM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Aquila_constellation_map.png&docid=m4RIZMK-YuVyuM&imgurl=http://upload.wikimedia.org/wikipedia/commons/7/7c/Aquila_constellation_map.png&w=2559&h=2559&ei=Lr0FUr-OE8fSyAG1wYEY&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=206&tbnw=206&start=0&ndsp=10&tx=96&ty=76)
 
 [*Ara*](http://www.google.com/imgres?newwindow=1&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=O2ftOJu96felFM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Ara_constellation_map.png&docid=9W2vnOncUFnidM&imgurl=http://upload.wikimedia.org/wikipedia/commons/b/b9/Ara_constellation_map.png&w=1709&h=1989&ei=uL0FUuHgOefWyQGE2IAo&zoom=1&ved=1t:3588,r:1,s:0,i:83&iact=rc&page=1&tbnh=190&tbnw=163&start=0&ndsp=15&tx=50&ty=75)
