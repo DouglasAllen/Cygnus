@@ -80,6 +80,8 @@
 
 -
 
+[Gemini](http://www.google.com/imgres?newwindow=1&sa=X&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=Cg1N7I_bXNaV7M:&imgrefurl=http://commons.wikimedia.org/wiki/File:Gemini_constellation_map_ru_lite.png&docid=WUYlQAWrWsYiaM&imgurl=http://upload.wikimedia.org/wikipedia/commons/3/39/Gemini_constellation_map_ru_lite.png&w=2100&h=2100&ei=PKAJUqj0NImayAH7zIHIDA&zoom=1&ved=1t:3588,r:0,s:0,i:89&iact=rc&page=1&tbnh=196&tbnw=196&start=0&ndsp=10&tx=108&ty=66)
+
 [Grus](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=VaETi36cWrxjCM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Grus_constellation_map.png&docid=RedfoZarh5gKdM&imgurl=http://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Grus_constellation_map.png/1024px-Grus_constellation_map.png&w=1024&h=1024&ei=j-UGUvm6G-SQyAGT7oDgDw&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=189&tbnw=189&start=0&ndsp=13&tx=104&ty=61)
 
 -
