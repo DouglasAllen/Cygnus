@@ -24,11 +24,11 @@
 
 [Cancer](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbm=isch&tbnid=McVdgFcXmy2hfM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Cancer_constellation_map.png&docid=liZp3YzTvLHOmM&imgurl=http://upload.wikimedia.org/wikipedia/commons/4/49/Cancer_constellation_map.png&w=2559&h=2269&ei=W58JUp7LDum4yAHL1YD4Dw&zoom=1&ved=1t:3588,r:2,s:0,i:94&iact=rc&page=1&tbnh=172&tbnw=194&start=0&ndsp=10&tx=73&ty=88)   'Cnc' => [ 'Cancer',              ' 8 30'.hms_to_rad, +20.to_rad ]
 
+[*Canes_Venatici*](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=Nsr6jROc3pEASM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Canes_Venatici_constellation_map.png&docid=nFVaEgTGWxSYlM&imgurl=http://upload.wikimedia.org/wikipedia/commons/4/41/Canes_Venatici_constellation_map.png&w=2559&h=1989&ei=_eQFUtCpKsWMygGnk4FA&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=198&tbnw=255&start=0&ndsp=8&tx=143&ty=101)  'CVn' => [ 'Canes Venatici',      '13  0'.hms_to_rad, +40.to_rad ]
+
 [*Canis major*](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=Ne75PU1d135X8M:&imgrefurl=http://commons.wikimedia.org/wiki/File:Canis_major_constellation_map.png&docid=qWxwZ2LiLWmXgM&imgurl=http://upload.wikimedia.org/wikipedia/commons/e/e5/Canis_major_constellation_map.png&w=1989&h=1989&ei=6eEGUr70GNHCyAG1voH4Ag&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=180&tbnw=180&start=0&ndsp=15&tx=70&ty=93) 'CMa' => [ 'Canis Major',         ' 6 40'.hms_to_rad, -24.to_rad ]
 
-[*Canis minor*](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=J3vkDVbD-2Jv1M:&imgrefurl=http://commons.wikimedia.org/wiki/File:Canis_minor_constellation_map.png&docid=NXLnJ-yKXUJinM&imgurl=http://upload.wikimedia.org/wikipedia/commons/f/f0/Canis_minor_constellation_map.png&w=1989&h=1989&ei=beUFUu6zMoqEyAGdoIEY&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=212&tbnw=212&start=0&ndsp=9&tx=121&ty=78)
-
-[*Canes_Venatici*](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=Nsr6jROc3pEASM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Canes_Venatici_constellation_map.png&docid=nFVaEgTGWxSYlM&imgurl=http://upload.wikimedia.org/wikipedia/commons/4/41/Canes_Venatici_constellation_map.png&w=2559&h=1989&ei=_eQFUtCpKsWMygGnk4FA&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=198&tbnw=255&start=0&ndsp=8&tx=143&ty=101)
+[*Canis minor*](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=J3vkDVbD-2Jv1M:&imgrefurl=http://commons.wikimedia.org/wiki/File:Canis_minor_constellation_map.png&docid=NXLnJ-yKXUJinM&imgurl=http://upload.wikimedia.org/wikipedia/commons/f/f0/Canis_minor_constellation_map.png&w=1989&h=1989&ei=beUFUu6zMoqEyAGdoIEY&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=212&tbnw=212&start=0&ndsp=9&tx=121&ty=78)  'CMi' => [ 'Canis Minor',         ' 7 30'.hms_to_rad,  +6.to_rad ]
 
 [Capricornus](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=uKLtog8dwF6bQM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Capricornus_constellation_map.png&docid=vOTu0YN6u2FrLM&imgurl=http://upload.wikimedia.org/wikipedia/commons/b/b4/Capricornus_constellation_map.png&w=2269&h=1989&ei=xbAJUv_oHqeiyAGwzYHYDA&zoom=1&ved=1t:3588,r:0,s:0,i:89&iact=rc&page=1&tbnh=182&tbnw=208&start=0&ndsp=8&tx=100&ty=79)  'Cap' => [ 'Capricornus',         '20 50'.hms_to_rad, -20.to_rad ]
 
@@ -102,8 +102,8 @@
     'Cet' => [ 'Cetus',               ' 1 45'.hms_to_rad, -12.to_rad ],		
   
 	  
-    'CMi' => [ 'Canis Minor',         ' 7 30'.hms_to_rad,  +6.to_rad ],
-    'CVn' => [ 'Canes Venatici',      '13  0'.hms_to_rad, +40.to_rad ],
+   
+   
 	  'Cas' => [ 'Cassiopeia',          ' 1  0'.hms_to_rad, +60.to_rad ],
 		'Cha' => [ 'Chamaeleon',          '10 40'.hms_to_rad, -78.to_rad ],
     'Cir' => [ 'Circinus',            '14 50'.hms_to_rad, -63.to_rad ],
