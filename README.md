@@ -1,3 +1,5 @@
+-
+
 [Andromeda](http://www.google.com/imgres?newwindow=1&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=osnYJa_N1dsB-M:&imgrefurl=http://commons.wikimedia.org/wiki/File:Andromeda_constellation_map.png&docid=n2eZJvIKQFe1HM&imgurl=http://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Andromeda_constellation_map.png/1024px-Andromeda_constellation_map.png&w=1024&h=1024&ei=HLsFUqWRDunkyQGxm4DoAQ&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=197&tbnw=197&start=0&ndsp=15&tx=102&ty=59) 'And' => [ 'Andromeda',           ' 0 40'.hms_to_rad, +38.to_rad ]
 
 [*Antlia*](http://www.google.com/imgres?newwindow=1&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=NnDEXGx92hNFQM:&imgrefurl=https://commons.wikimedia.org/wiki/File:Antlia_constellation_map.png&docid=e85SWNzLSHO8LM&imgurl=https://upload.wikimedia.org/wikipedia/commons/5/5e/Antlia_constellation_map.png&w=2559&h=2269&ei=zLsFUtmGGLHlyAHC8IBo&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=186&tbnw=210&start=0&ndsp=14&tx=83&ty=73) 'Ant' => [ 'Antlia',              '10  0'.hms_to_rad, -35.to_rad ]
@@ -64,114 +66,114 @@
 
 -
 
-[Delphinus](http://www.google.com/imgres?newwindow=1&sa=X&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=0FzKyoyuIni1QM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Delphinus_constellation_map.png&docid=hsLptbHLmkZF-M&imgurl=http://upload.wikimedia.org/wikipedia/commons/4/49/Delphinus_constellation_map.png&w=1989&h=1989&ei=K98GUqOUGeOF2gWZ5IHgBQ&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=202&tbnw=202&start=0&ndsp=14&tx=106&ty=82)
+[Delphinus](http://www.google.com/imgres?newwindow=1&sa=X&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=0FzKyoyuIni1QM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Delphinus_constellation_map.png&docid=hsLptbHLmkZF-M&imgurl=http://upload.wikimedia.org/wikipedia/commons/4/49/Delphinus_constellation_map.png&w=1989&h=1989&ei=K98GUqOUGeOF2gWZ5IHgBQ&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=202&tbnw=202&start=0&ndsp=14&tx=106&ty=82)   'Del' => [ 'Delphinus',           '20 35'.hms_to_rad, +12.to_rad ]
 
-[Dorado](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=F-s9f5RSxMR7AM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Dorado_constellation_map.png&docid=tjyd94YysxQf7M&imgurl=http://upload.wikimedia.org/wikipedia/commons/5/50/Dorado_constellation_map.png&w=1789&h=2269&ei=WN8GUtnlMIb12wXu0oDwAg&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=202&tbnw=159&start=0&ndsp=14&tx=65&ty=103)
+[Dorado](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=F-s9f5RSxMR7AM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Dorado_constellation_map.png&docid=tjyd94YysxQf7M&imgurl=http://upload.wikimedia.org/wikipedia/commons/5/50/Dorado_constellation_map.png&w=1789&h=2269&ei=WN8GUtnlMIb12wXu0oDwAg&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=202&tbnw=159&start=0&ndsp=14&tx=65&ty=103)   'Dor' => [ 'Dorado',              ' 5  0'.hms_to_rad, -60.to_rad ]
 
-[Draco](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=Q4UGZAVb3uefXM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Draco_constellation_map_ru_lite.png&docid=ZCZ-02k-_sSMDM&imgurl=http://upload.wikimedia.org/wikipedia/commons/f/f6/Draco_constellation_map_ru_lite.png&w=2100&h=2100&ei=ed8GUp_yE-reyAGLkYDQBg&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=208&tbnw=208&start=0&ndsp=13&tx=102&ty=81)
-
--
-
-[Equuleus](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=joOoe0jUtmDZTM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Equuleus_constellation_map.png&docid=4YLGqz3kwfDaPM&imgurl=http://upload.wikimedia.org/wikipedia/commons/d/d6/Equuleus_constellation_map.png&w=1789&h=1989&ei=3eQGUo3VIZKByQGvk4GYAg&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=178&tbnw=160&start=0&ndsp=15&tx=68&ty=70)
-
-[Eridanus](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=LyOCm3LB8VQvLM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Eridanus_constellation_map.png&docid=obycN1ZAgSPr6M&imgurl=http://upload.wikimedia.org/wikipedia/commons/2/28/Eridanus_constellation_map.png&w=2559&h=3119&ei=BOUGUvHNH8jhyQGNm4GwDw&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=186&tbnw=152&start=0&ndsp=15&tx=65&ty=83)
+[Draco](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=Q4UGZAVb3uefXM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Draco_constellation_map_ru_lite.png&docid=ZCZ-02k-_sSMDM&imgurl=http://upload.wikimedia.org/wikipedia/commons/f/f6/Draco_constellation_map_ru_lite.png&w=2100&h=2100&ei=ed8GUp_yE-reyAGLkYDQBg&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=208&tbnw=208&start=0&ndsp=13&tx=102&ty=81)   'Dra' => [ 'Draco',               '17  0'.hms_to_rad, +60.to_rad ]
 
 -
 
-[Fornax](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=NADNQrBOcWA5bM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Fornax_constellation_map.png&docid=tk1iDzLO-DgftM&imgurl=http://upload.wikimedia.org/wikipedia/commons/5/5c/Fornax_constellation_map.png&w=2559&h=1709&ei=XeUGUu_mNaPuyAHv2oFQ&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=178&tbnw=267&start=0&ndsp=15&tx=115&ty=83)
+[Equuleus](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=joOoe0jUtmDZTM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Equuleus_constellation_map.png&docid=4YLGqz3kwfDaPM&imgurl=http://upload.wikimedia.org/wikipedia/commons/d/d6/Equuleus_constellation_map.png&w=1789&h=1989&ei=3eQGUo3VIZKByQGvk4GYAg&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=178&tbnw=160&start=0&ndsp=15&tx=68&ty=70)   'Equ' => [ 'Equuleus',            '21 10'.hms_to_rad,  +6.to_rad ]
+
+[Eridanus](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=LyOCm3LB8VQvLM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Eridanus_constellation_map.png&docid=obycN1ZAgSPr6M&imgurl=http://upload.wikimedia.org/wikipedia/commons/2/28/Eridanus_constellation_map.png&w=2559&h=3119&ei=BOUGUvHNH8jhyQGNm4GwDw&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=186&tbnw=152&start=0&ndsp=15&tx=65&ty=83)   'Eri' => [ 'Eridanus',            ' 3 50'.hms_to_rad, -30.to_rad ]
 
 -
 
-[Gemini](http://www.google.com/imgres?newwindow=1&sa=X&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=Cg1N7I_bXNaV7M:&imgrefurl=http://commons.wikimedia.org/wiki/File:Gemini_constellation_map_ru_lite.png&docid=WUYlQAWrWsYiaM&imgurl=http://upload.wikimedia.org/wikipedia/commons/3/39/Gemini_constellation_map_ru_lite.png&w=2100&h=2100&ei=PKAJUqj0NImayAH7zIHIDA&zoom=1&ved=1t:3588,r:0,s:0,i:89&iact=rc&page=1&tbnh=196&tbnw=196&start=0&ndsp=10&tx=108&ty=66)
-
-[Grus](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=VaETi36cWrxjCM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Grus_constellation_map.png&docid=RedfoZarh5gKdM&imgurl=http://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Grus_constellation_map.png/1024px-Grus_constellation_map.png&w=1024&h=1024&ei=j-UGUvm6G-SQyAGT7oDgDw&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=189&tbnw=189&start=0&ndsp=13&tx=104&ty=61)
+[Fornax](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=NADNQrBOcWA5bM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Fornax_constellation_map.png&docid=tk1iDzLO-DgftM&imgurl=http://upload.wikimedia.org/wikipedia/commons/5/5c/Fornax_constellation_map.png&w=2559&h=1709&ei=XeUGUu_mNaPuyAHv2oFQ&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=178&tbnw=267&start=0&ndsp=15&tx=115&ty=83)   'For' => [ 'Fornax',              ' 2 25'.hms_to_rad, -33.to_rad ]
 
 -
 
-[*Ursa major*](http://www.google.com/imgres?newwindow=1&sa=X&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=cEelFWj63GBgyM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Ursa_Minor_constellation_map.png&docid=ZRHW1lQRu_JdJM&imgurl=http://upload.wikimedia.org/wikipedia/commons/0/04/Ursa_Minor_constellation_map.png&w=1989&h=1989&ei=5LkFUputNs6EygG4ioG4Dw&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=194&tbnw=194&start=0&ndsp=14&tx=80&ty=62#imgdii=cEelFWj63GBgyM%3A%3Bw49DEXOnKDvaAM%3BcEelFWj63GBgyM%3A)
+[Gemini](http://www.google.com/imgres?newwindow=1&sa=X&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=Cg1N7I_bXNaV7M:&imgrefurl=http://commons.wikimedia.org/wiki/File:Gemini_constellation_map_ru_lite.png&docid=WUYlQAWrWsYiaM&imgurl=http://upload.wikimedia.org/wikipedia/commons/3/39/Gemini_constellation_map_ru_lite.png&w=2100&h=2100&ei=PKAJUqj0NImayAH7zIHIDA&zoom=1&ved=1t:3588,r:0,s:0,i:89&iact=rc&page=1&tbnh=196&tbnw=196&start=0&ndsp=10&tx=108&ty=66)   'Gem' => [ 'Gemini',              ' 7  0'.hms_to_rad, +22.to_rad ]
 
-[*Ursa minor*](http://www.google.com/imgres?newwindow=1&sa=X&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=cEelFWj63GBgyM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Ursa_Minor_constellation_map.png&docid=ZRHW1lQRu_JdJM&imgurl=http://upload.wikimedia.org/wikipedia/commons/0/04/Ursa_Minor_constellation_map.png&w=1989&h=1989&ei=5LkFUputNs6EygG4ioG4Dw&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=194&tbnw=194&start=0&ndsp=14&tx=80&ty=62)
+[Grus](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=VaETi36cWrxjCM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Grus_constellation_map.png&docid=RedfoZarh5gKdM&imgurl=http://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Grus_constellation_map.png/1024px-Grus_constellation_map.png&w=1024&h=1024&ei=j-UGUvm6G-SQyAGT7oDgDw&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=189&tbnw=189&start=0&ndsp=13&tx=104&ty=61)  'Gru' => [ 'Grus',                '22 20'.hms_to_rad, -47.to_rad ]
 
- 
+-
+
+   'Her' => [ 'Hercules',            '17 10'.hms_to_rad, +27.to_rad ]
+	  'Hor' => [ 'Horologium',          ' 3 20'.hms_to_rad, -52.to_rad ]
+	  'Hya' => [ 'Hydra',               '10 30'.hms_to_rad, -20.to_rad ]
+    'Hyi' => [ 'Hydrus',              ' 2 40'.hms_to_rad, -72.to_rad ]
+
+-
+
+	  'Ind' => [ 'Indus',               '21 20'.hms_to_rad, -58.to_rad ]
+
+-
+
+	  'Lac' => [ 'Lacerta',             '22 25'.hms_to_rad, +43.to_rad ]
+	  'Leo' => [ 'Leo',                 '10 30'.hms_to_rad, +15.to_rad ]
+    'LMi' => [ 'Leo Minor',           '10 20'.hms_to_rad, +33.to_rad ]
+    'Lib' => [ 'Libra',               '15 10'.hms_to_rad, -14.to_rad ]	    
+    'Lep' => [ 'Lepus',               ' 5 25'.hms_to_rad, -20.to_rad ]
+    'Lup' => [ 'Lupus',               '15  0'.hms_to_rad, -40.to_rad ]
+	  'Lyn' => [ 'Lynx',                ' 7 50'.hms_to_rad, +45.to_rad ]
+    'Lyr' => [ 'Lyra',                '18 45'.hms_to_rad, +36.to_rad ]
+
+-
+
+	  'Men' => [ 'Mensa',               ' 5 40'.hms_to_rad, -77.to_rad ]
+    'Mic' => [ 'Microscopium',        '20 50'.hms_to_rad, -37.to_rad ]
+		'Mon' => [ 'Monoceros',           ' 7  0'.hms_to_rad,  -3.to_rad ]
+	  'Mus' => [ 'Musca',               '12 30'.hms_to_rad, -70.to_rad ]
+
+-
 	 
-	 
-	
- 
- 
-	
- 
- 
-  
-	  
-   
-   
-	 
+ 'Nor' => [ 'Norma',               '16  0'.hms_to_rad, -50.to_rad ]
 
-  
-	
-	
-  
-	
-	
-	
-  
+-
 
- 
-    'Del' => [ 'Delphinus',           '20 35'.hms_to_rad, +12.to_rad ],
-	  'Dor' => [ 'Dorado',              ' 5  0'.hms_to_rad, -60.to_rad ],
-	  'Dra' => [ 'Draco',               '17  0'.hms_to_rad, +60.to_rad ],
-	  'Equ' => [ 'Equuleus',            '21 10'.hms_to_rad,  +6.to_rad ],
-	  'Eri' => [ 'Eridanus',            ' 3 50'.hms_to_rad, -30.to_rad ],
-	  'For' => [ 'Fornax',              ' 2 25'.hms_to_rad, -33.to_rad ],	
-    'Gem' => [ 'Gemini',              ' 7  0'.hms_to_rad, +22.to_rad ],
-	  'Gru' => [ 'Grus',                '22 20'.hms_to_rad, -47.to_rad ],
-    'Her' => [ 'Hercules',            '17 10'.hms_to_rad, +27.to_rad ],
-	  'Hor' => [ 'Horologium',          ' 3 20'.hms_to_rad, -52.to_rad ],
-	  'Hya' => [ 'Hydra',               '10 30'.hms_to_rad, -20.to_rad ],
-    'Hyi' => [ 'Hydrus',              ' 2 40'.hms_to_rad, -72.to_rad ],
-	  'Ind' => [ 'Indus',               '21 20'.hms_to_rad, -58.to_rad ],
-	  'Lac' => [ 'Lacerta',             '22 25'.hms_to_rad, +43.to_rad ],
-	  'Leo' => [ 'Leo',                 '10 30'.hms_to_rad, +15.to_rad ],
-    'LMi' => [ 'Leo Minor',           '10 20'.hms_to_rad, +33.to_rad ],
-    'Lib' => [ 'Libra',               '15 10'.hms_to_rad, -14.to_rad ],	    
-    'Lep' => [ 'Lepus',               ' 5 25'.hms_to_rad, -20.to_rad ],
-    'Lup' => [ 'Lupus',               '15  0'.hms_to_rad, -40.to_rad ],
-	  'Lyn' => [ 'Lynx',                ' 7 50'.hms_to_rad, +45.to_rad ],
-    'Lyr' => [ 'Lyra',                '18 45'.hms_to_rad, +36.to_rad ],
-	  'Men' => [ 'Mensa',               ' 5 40'.hms_to_rad, -77.to_rad ],
-    'Mic' => [ 'Microscopium',        '20 50'.hms_to_rad, -37.to_rad ],
-		'Mon' => [ 'Monoceros',           ' 7  0'.hms_to_rad,  -3.to_rad ],
-	  'Mus' => [ 'Musca',               '12 30'.hms_to_rad, -70.to_rad ],
-	  'Nor' => [ 'Norma',               '16  0'.hms_to_rad, -50.to_rad ],
-    'Oct' => [ 'Octans',              '21  0'.hms_to_rad, -87.to_rad ],
-    'Oph' => [ 'Ophiuchus',           '17 10'.hms_to_rad,  -4.to_rad ],
-    'Ori' => [ 'Orion',               ' 5 20'.hms_to_rad,  +3.to_rad ],
-	  'Pav' => [ 'Pavo',                '19 10'.hms_to_rad, -65.to_rad ], 
-    'Peg' => [ 'Pegasus',             '22 30'.hms_to_rad, +17.to_rad ],
-    'Per' => [ 'Perseus',             ' 3 20'.hms_to_rad, +42.to_rad ],
-    'Phe' => [ 'Phoenix',             ' 1  0'.hms_to_rad, -48.to_rad ],
-    'Pic' => [ 'Pictor',              ' 5 30'.hms_to_rad, -52.to_rad ],
-    'Psc' => [ 'Pisces',              ' 0 20'.hms_to_rad, +10.to_rad ],	
-    'PsA' => [ 'Piscis Austrinus',    '22  0'.hms_to_rad, -32.to_rad ],	
-	  'Pup' => [ 'Puppis',              ' 7 40'.hms_to_rad, -32.to_rad ],
-	  'Pyx' => [ 'Pyxis',               ' 8 50'.hms_to_rad, -28.to_rad ],	
-		'Ret' => [ 'Reticulum',           ' 3 50'.hms_to_rad, -63.to_rad ],
-    'Sge' => [ 'Sagitta',             '19 40'.hms_to_rad, +18.to_rad ],
-		'Sgr' => [ 'Sagittarius',         '19  0'.hms_to_rad, -25.to_rad ],
-	  'Sco' => [ 'Scorpius',            '16 20'.hms_to_rad, -26.to_rad ],	
-		'Scl' => [ 'Sculptor',            ' 0 30'.hms_to_rad, -35.to_rad ],
-	  'Sct' => [ 'Scutum',              '18 30'.hms_to_rad, -10.to_rad ],	
-	  'Ser(N)' => [ 'Serpens (North)',  '15 35'.hms_to_rad,  +8.to_rad ],
-		'Ser(S)' => [ 'Serpens (South)',  '18  0'.hms_to_rad,  -5.to_rad ],	
-	  'Sex' => [ 'Sextans',             '10 10'.hms_to_rad,  -1.to_rad ],	
-		'Tau' => [ 'Taurus',              ' 4 30'.hms_to_rad, +18.to_rad ],
-		'Tel' => [ 'Telescopium',         '19  0'.hms_to_rad, -52.to_rad ],
-		'Tri' => [ 'Triangulum',          ' 2  0'.hms_to_rad, +32.to_rad ],
-	  'TrA' => [ 'Triangulum Australe', '15 40'.hms_to_rad, -65.to_rad ],
-	  'Tuc' => [ 'Tucana',              '23 45'.hms_to_rad, -68.to_rad ],
-		'UMa' => [ 'Ursa Major',          '11  0'.hms_to_rad, +58.to_rad ],
-	  'UMi' => [ 'Ursa Minor',          '15 40'.hms_to_rad, +78.to_rad ],
-    'Vel' => [ 'Vela',                ' 9 30'.hms_to_rad, -45.to_rad ],	
-		'Vir' => [ 'Virgo',               '13 20'.hms_to_rad,  -2.to_rad ],
-		'Vol' => [ 'Volans',              ' 7 40'.hms_to_rad, -69.to_rad ],	
-		'Vul' => [ 'Vulpecula',           '20 10'.hms_to_rad, +25.to_rad ],		
+    'Oct' => [ 'Octans',              '21  0'.hms_to_rad, -87.to_rad ]
+    'Oph' => [ 'Ophiuchus',           '17 10'.hms_to_rad,  -4.to_rad ]
+    'Ori' => [ 'Orion',               ' 5 20'.hms_to_rad,  +3.to_rad ]
+
+-
+
+	  'Pav' => [ 'Pavo',                '19 10'.hms_to_rad, -65.to_rad ] 
+    'Peg' => [ 'Pegasus',             '22 30'.hms_to_rad, +17.to_rad ]
+    'Per' => [ 'Perseus',             ' 3 20'.hms_to_rad, +42.to_rad ]
+    'Phe' => [ 'Phoenix',             ' 1  0'.hms_to_rad, -48.to_rad ]
+    'Pic' => [ 'Pictor',              ' 5 30'.hms_to_rad, -52.to_rad ]
+    'Psc' => [ 'Pisces',              ' 0 20'.hms_to_rad, +10.to_rad ]	
+    'PsA' => [ 'Piscis Austrinus',    '22  0'.hms_to_rad, -32.to_rad ]	
+	  'Pup' => [ 'Puppis',              ' 7 40'.hms_to_rad, -32.to_rad ]
+	  'Pyx' => [ 'Pyxis',               ' 8 50'.hms_to_rad, -28.to_rad ]
+
+-	
+
+		'Ret' => [ 'Reticulum',           ' 3 50'.hms_to_rad, -63.to_rad ]
+
+-
+
+    'Sge' => [ 'Sagitta',             '19 40'.hms_to_rad, +18.to_rad ]
+		'Sgr' => [ 'Sagittarius',         '19  0'.hms_to_rad, -25.to_rad ]
+	  'Sco' => [ 'Scorpius',            '16 20'.hms_to_rad, -26.to_rad ]	
+		'Scl' => [ 'Sculptor',            ' 0 30'.hms_to_rad, -35.to_rad ]
+	  'Sct' => [ 'Scutum',              '18 30'.hms_to_rad, -10.to_rad ]	
+	  'Ser(N)' => [ 'Serpens (North)',  '15 35'.hms_to_rad,  +8.to_rad ]
+		'Ser(S)' => [ 'Serpens (South)',  '18  0'.hms_to_rad,  -5.to_rad ]	
+	  'Sex' => [ 'Sextans',             '10 10'.hms_to_rad,  -1.to_rad ]
+
+-
+
+		'Tau' => [ 'Taurus',              ' 4 30'.hms_to_rad, +18.to_rad ]
+		'Tel' => [ 'Telescopium',         '19  0'.hms_to_rad, -52.to_rad ]
+		'Tri' => [ 'Triangulum',          ' 2  0'.hms_to_rad, +32.to_rad ]
+	  'TrA' => [ 'Triangulum Australe', '15 40'.hms_to_rad, -65.to_rad ]
+	  'Tuc' => [ 'Tucana',              '23 45'.hms_to_rad, -68.to_rad ]
+
+-
+
+[*Ursa major*](http://www.google.com/imgres?newwindow=1&sa=X&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=cEelFWj63GBgyM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Ursa_Minor_constellation_map.png&docid=ZRHW1lQRu_JdJM&imgurl=http://upload.wikimedia.org/wikipedia/commons/0/04/Ursa_Minor_constellation_map.png&w=1989&h=1989&ei=5LkFUputNs6EygG4ioG4Dw&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=194&tbnw=194&start=0&ndsp=14&tx=80&ty=62#imgdii=cEelFWj63GBgyM%3A%3Bw49DEXOnKDvaAM%3BcEelFWj63GBgyM%3A) 	'UMa' => [ 'Ursa Major',          '11  0'.hms_to_rad, +58.to_rad ]
+
+[*Ursa minor*](http://www.google.com/imgres?newwindow=1&sa=X&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=cEelFWj63GBgyM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Ursa_Minor_constellation_map.png&docid=ZRHW1lQRu_JdJM&imgurl=http://upload.wikimedia.org/wikipedia/commons/0/04/Ursa_Minor_constellation_map.png&w=1989&h=1989&ei=5LkFUputNs6EygG4ioG4Dw&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=194&tbnw=194&start=0&ndsp=14&tx=80&ty=62)   'UMi' => [ 'Ursa Minor',          '15 40'.hms_to_rad, +78.to_rad ]
+
+-
+
+
+    'Vel' => [ 'Vela',                ' 9 30'.hms_to_rad, -45.to_rad ]	
+		'Vir' => [ 'Virgo',               '13 20'.hms_to_rad,  -2.to_rad ]
+		'Vol' => [ 'Volans',              ' 7 40'.hms_to_rad, -69.to_rad ]	
+		'Vul' => [ 'Vulpecula',           '20 10'.hms_to_rad, +25.to_rad ]	
+
+-	
