@@ -24,43 +24,43 @@
 
 [Cancer](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbm=isch&tbnid=McVdgFcXmy2hfM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Cancer_constellation_map.png&docid=liZp3YzTvLHOmM&imgurl=http://upload.wikimedia.org/wikipedia/commons/4/49/Cancer_constellation_map.png&w=2559&h=2269&ei=W58JUp7LDum4yAHL1YD4Dw&zoom=1&ved=1t:3588,r:2,s:0,i:94&iact=rc&page=1&tbnh=172&tbnw=194&start=0&ndsp=10&tx=73&ty=88)   'Cnc' => [ 'Cancer',              ' 8 30'.hms_to_rad, +20.to_rad ]
 
-[*Canes_Venatici*](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=Nsr6jROc3pEASM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Canes_Venatici_constellation_map.png&docid=nFVaEgTGWxSYlM&imgurl=http://upload.wikimedia.org/wikipedia/commons/4/41/Canes_Venatici_constellation_map.png&w=2559&h=1989&ei=_eQFUtCpKsWMygGnk4FA&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=198&tbnw=255&start=0&ndsp=8&tx=143&ty=101)  'CVn' => [ 'Canes Venatici',      '13  0'.hms_to_rad, +40.to_rad ]
+[*Canes Venatici*](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=Nsr6jROc3pEASM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Canes_Venatici_constellation_map.png&docid=nFVaEgTGWxSYlM&imgurl=http://upload.wikimedia.org/wikipedia/commons/4/41/Canes_Venatici_constellation_map.png&w=2559&h=1989&ei=_eQFUtCpKsWMygGnk4FA&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=198&tbnw=255&start=0&ndsp=8&tx=143&ty=101)  'CVn' => [ 'Canes Venatici',      '13  0'.hms_to_rad, +40.to_rad ]
 
-[*Canis major*](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=Ne75PU1d135X8M:&imgrefurl=http://commons.wikimedia.org/wiki/File:Canis_major_constellation_map.png&docid=qWxwZ2LiLWmXgM&imgurl=http://upload.wikimedia.org/wikipedia/commons/e/e5/Canis_major_constellation_map.png&w=1989&h=1989&ei=6eEGUr70GNHCyAG1voH4Ag&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=180&tbnw=180&start=0&ndsp=15&tx=70&ty=93) 'CMa' => [ 'Canis Major',         ' 6 40'.hms_to_rad, -24.to_rad ]
+[*Canis Major*](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=Ne75PU1d135X8M:&imgrefurl=http://commons.wikimedia.org/wiki/File:Canis_major_constellation_map.png&docid=qWxwZ2LiLWmXgM&imgurl=http://upload.wikimedia.org/wikipedia/commons/e/e5/Canis_major_constellation_map.png&w=1989&h=1989&ei=6eEGUr70GNHCyAG1voH4Ag&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=180&tbnw=180&start=0&ndsp=15&tx=70&ty=93) 'CMa' => [ 'Canis Major',         ' 6 40'.hms_to_rad, -24.to_rad ]
 
-[*Canis minor*](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=J3vkDVbD-2Jv1M:&imgrefurl=http://commons.wikimedia.org/wiki/File:Canis_minor_constellation_map.png&docid=NXLnJ-yKXUJinM&imgurl=http://upload.wikimedia.org/wikipedia/commons/f/f0/Canis_minor_constellation_map.png&w=1989&h=1989&ei=beUFUu6zMoqEyAGdoIEY&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=212&tbnw=212&start=0&ndsp=9&tx=121&ty=78)  'CMi' => [ 'Canis Minor',         ' 7 30'.hms_to_rad,  +6.to_rad ]
+[*Canis Minor*](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=J3vkDVbD-2Jv1M:&imgrefurl=http://commons.wikimedia.org/wiki/File:Canis_minor_constellation_map.png&docid=NXLnJ-yKXUJinM&imgurl=http://upload.wikimedia.org/wikipedia/commons/f/f0/Canis_minor_constellation_map.png&w=1989&h=1989&ei=beUFUu6zMoqEyAGdoIEY&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=212&tbnw=212&start=0&ndsp=9&tx=121&ty=78)  'CMi' => [ 'Canis Minor',         ' 7 30'.hms_to_rad,  +6.to_rad ]
 
 [Capricornus](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=uKLtog8dwF6bQM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Capricornus_constellation_map.png&docid=vOTu0YN6u2FrLM&imgurl=http://upload.wikimedia.org/wikipedia/commons/b/b4/Capricornus_constellation_map.png&w=2269&h=1989&ei=xbAJUv_oHqeiyAGwzYHYDA&zoom=1&ved=1t:3588,r:0,s:0,i:89&iact=rc&page=1&tbnh=182&tbnw=208&start=0&ndsp=8&tx=100&ty=79)  'Cap' => [ 'Capricornus',         '20 50'.hms_to_rad, -20.to_rad ]
 
-[*Carina*](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=tqGcIInLZf3HtM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Carina_constellation_map.png&docid=kkgyosBAhn3n1M&imgurl=http://upload.wikimedia.org/wikipedia/commons/f/f4/Carina_constellation_map.png&w=2559&h=1989&ei=neUFUo_-Ac2FyQHs34CQAw&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=191&tbnw=246&start=0&ndsp=14&tx=129&ty=68)
+[*Carina*](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=tqGcIInLZf3HtM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Carina_constellation_map.png&docid=kkgyosBAhn3n1M&imgurl=http://upload.wikimedia.org/wikipedia/commons/f/f4/Carina_constellation_map.png&w=2559&h=1989&ei=neUFUo_-Ac2FyQHs34CQAw&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=191&tbnw=246&start=0&ndsp=14&tx=129&ty=68)    'Car' => [ 'Carina',              ' 8 40'.hms_to_rad, -62.to_rad ]
 
-[*Cassiopeia*](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=Fi-ADFoC6UQkZM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Cassiopeia_constellation_map.png&docid=XVnC3QPHuYEkwM&imgurl=http://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cassiopeia_constellation_map.png/1024px-Cassiopeia_constellation_map.png&w=1024&h=1024&ei=zOUFUpqSMKK8yAGr7ICIAQ&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=209&tbnw=209&start=0&ndsp=9&tx=94&ty=87)
+[*Cassiopeia*](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=Fi-ADFoC6UQkZM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Cassiopeia_constellation_map.png&docid=XVnC3QPHuYEkwM&imgurl=http://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cassiopeia_constellation_map.png/1024px-Cassiopeia_constellation_map.png&w=1024&h=1024&ei=zOUFUpqSMKK8yAGr7ICIAQ&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=209&tbnw=209&start=0&ndsp=9&tx=94&ty=87) 'Cas' => [ 'Cassiopeia',          ' 1  0'.hms_to_rad, +60.to_rad ]
 
-[*Centaurus*](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=nvZpNloWuZsVTM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Centaurus_constellation_map.png&docid=P65hsBHLaU8nmM&imgurl=http://upload.wikimedia.org/wikipedia/commons/6/6b/Centaurus_constellation_map.png&w=2559&h=2559&ei=9-UFUqHRDIWIyAHxz4FQ&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=181&tbnw=181&start=0&ndsp=15&tx=86&ty=64)
+[*Centaurus*](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=nvZpNloWuZsVTM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Centaurus_constellation_map.png&docid=P65hsBHLaU8nmM&imgurl=http://upload.wikimedia.org/wikipedia/commons/6/6b/Centaurus_constellation_map.png&w=2559&h=2559&ei=9-UFUqHRDIWIyAHxz4FQ&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=181&tbnw=181&start=0&ndsp=15&tx=86&ty=64) 	'Cen' => [ 'Centaurus',           '13 20'.hms_to_rad, -47.to_rad ]
 
-[*Cepheus*](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=icKsfiFl-2L-uM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Cepheus_constellation_map.png&docid=sC3fTt2GUEvjrM&imgurl=http://upload.wikimedia.org/wikipedia/commons/6/69/Cepheus_constellation_map.png&w=2559&h=3119&ei=auMGUv7yJpD-2QXJpIC4Cw&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=184&tbnw=151&start=0&ndsp=15&tx=70&ty=75)
+[*Cepheus*](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=icKsfiFl-2L-uM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Cepheus_constellation_map.png&docid=sC3fTt2GUEvjrM&imgurl=http://upload.wikimedia.org/wikipedia/commons/6/69/Cepheus_constellation_map.png&w=2559&h=3119&ei=auMGUv7yJpD-2QXJpIC4Cw&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=184&tbnw=151&start=0&ndsp=15&tx=70&ty=75)    'Cep' => [ 'Cepheus',             '22  0'.hms_to_rad, +70.to_rad ]
 
-[*Cetus*](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=fuvLmSqwEs-MDM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Cetus_constellation_map.png&docid=2hkHQ92Kkj2T7M&imgurl=http://upload.wikimedia.org/wikipedia/commons/1/16/Cetus_constellation_map.png&w=2559&h=2049&ei=G-YFUuzPIIuAygH43IDAAg&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=191&tbnw=239&start=0&ndsp=12&tx=102&ty=56)
+[*Cetus*](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=fuvLmSqwEs-MDM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Cetus_constellation_map.png&docid=2hkHQ92Kkj2T7M&imgurl=http://upload.wikimedia.org/wikipedia/commons/1/16/Cetus_constellation_map.png&w=2559&h=2049&ei=G-YFUuzPIIuAygH43IDAAg&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=191&tbnw=239&start=0&ndsp=12&tx=102&ty=56)    'Cet' => [ 'Cetus',               ' 1 45'.hms_to_rad, -12.to_rad ]	
 
-[*Chamaeleon*](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=PyMN3MmrReG_tM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Chamaeleon_constellation_map.png&docid=QdUE8YitPIPwCM&imgurl=http://upload.wikimedia.org/wikipedia/commons/1/16/Chamaeleon_constellation_map.png&w=1789&h=1419&ei=ReYFUoiAI4KMygHOyYGQAQ&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=179&tbnw=226&start=0&ndsp=13&tx=95&ty=77)
+[*Chamaeleon*](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=PyMN3MmrReG_tM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Chamaeleon_constellation_map.png&docid=QdUE8YitPIPwCM&imgurl=http://upload.wikimedia.org/wikipedia/commons/1/16/Chamaeleon_constellation_map.png&w=1789&h=1419&ei=ReYFUoiAI4KMygHOyYGQAQ&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=179&tbnw=226&start=0&ndsp=13&tx=95&ty=77) 		'Cha' => [ 'Chamaeleon',          '10 40'.hms_to_rad, -78.to_rad ]
 
-[*Circinus*](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=wlTMWKCbsa0eOM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Circinus_constellation_map.png&docid=4XjdivfzsxV5FM&imgurl=http://upload.wikimedia.org/wikipedia/commons/6/6a/Circinus_constellation_map.png&w=1789&h=1989&ei=auYFUvDkEKLiyAG0x4DQDw&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=189&tbnw=170&start=0&ndsp=13&tx=75&ty=80)
+[*Circinus*](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=wlTMWKCbsa0eOM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Circinus_constellation_map.png&docid=4XjdivfzsxV5FM&imgurl=http://upload.wikimedia.org/wikipedia/commons/6/6a/Circinus_constellation_map.png&w=1789&h=1989&ei=auYFUvDkEKLiyAG0x4DQDw&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=189&tbnw=170&start=0&ndsp=13&tx=75&ty=80)   'Cir' => [ 'Circinus',            '14 50'.hms_to_rad, -63.to_rad ]
 
-[*Coma Berenices*](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=eQitl7PPyUCvEM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Coma_Berenices_constellation_map.png&docid=UqdvERWxi8CixM&imgurl=http://upload.wikimedia.org/wikipedia/commons/5/55/Coma_Berenices_constellation_map.png&w=2099&h=1759&ei=suYFUq_sGaGbygG3i4Bo&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=188&tbnw=225&start=0&ndsp=14&tx=79&ty=94)
+[*Columba*](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=XIJRrs0u4xciFM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Columba_constellation_map.png&docid=1OpFHP-uP4tQ0M&imgurl=http://upload.wikimedia.org/wikipedia/commons/1/11/Columba_constellation_map.png&w=1789&h=1709&ei=juYFUpyDEKqdyQGN6oDADw&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=197&tbnw=207&start=0&ndsp=14&tx=75&ty=83) 'Col' => [ 'Columba',             ' 5 40'.hms_to_rad, -34.to_rad ]
 
-[*Columba*](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=XIJRrs0u4xciFM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Columba_constellation_map.png&docid=1OpFHP-uP4tQ0M&imgurl=http://upload.wikimedia.org/wikipedia/commons/1/11/Columba_constellation_map.png&w=1789&h=1709&ei=juYFUpyDEKqdyQGN6oDADw&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=197&tbnw=207&start=0&ndsp=14&tx=75&ty=83)
+[*Coma Berenices*](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=eQitl7PPyUCvEM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Coma_Berenices_constellation_map.png&docid=UqdvERWxi8CixM&imgurl=http://upload.wikimedia.org/wikipedia/commons/5/55/Coma_Berenices_constellation_map.png&w=2099&h=1759&ei=suYFUq_sGaGbygG3i4Bo&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=188&tbnw=225&start=0&ndsp=14&tx=79&ty=94) 	'Com' => [ 'Com Berenices',       '12 40'.hms_to_rad, +23.to_rad ]   
 
-[*Corona Australis*](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=i_VT6yZh3NsjpM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Corona_Australis_constellation_map.png&docid=-RrJRkIJI9hQjM&imgurl=http://upload.wikimedia.org/wikipedia/commons/d/da/Corona_Australis_constellation_map.png&w=1789&h=1559&ei=5eYFUsuANYrIyAH2g4HYDw&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=179&tbnw=205&start=0&ndsp=14&tx=100&ty=60)
+[*Corona Australis*](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=i_VT6yZh3NsjpM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Corona_Australis_constellation_map.png&docid=-RrJRkIJI9hQjM&imgurl=http://upload.wikimedia.org/wikipedia/commons/d/da/Corona_Australis_constellation_map.png&w=1789&h=1559&ei=5eYFUsuANYrIyAH2g4HYDw&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=179&tbnw=205&start=0&ndsp=14&tx=100&ty=60)   'CrA' => [ 'Corona Australis',    '18 30'.hms_to_rad, -41.to_rad ]	
 
-[*Corona borealis*](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=dugISII4izZ2rM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Corona_borealis_constellation_map.png&docid=dhuzZUFrLwqqHM&imgurl=http://upload.wikimedia.org/wikipedia/commons/c/c8/Corona_borealis_constellation_map.png&w=1789&h=1419&ei=EecFUsv6BKiQyAGuzoFg&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=190&tbnw=239&start=0&ndsp=14&tx=129&ty=65)
+[*Corona Borealis*](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=dugISII4izZ2rM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Corona_borealis_constellation_map.png&docid=dhuzZUFrLwqqHM&imgurl=http://upload.wikimedia.org/wikipedia/commons/c/c8/Corona_borealis_constellation_map.png&w=1789&h=1419&ei=EecFUsv6BKiQyAGuzoFg&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=190&tbnw=239&start=0&ndsp=14&tx=129&ty=65) 	'CrB' => [ 'Corona Borealis',     '12 20'.hms_to_rad, -18.to_rad ]
 
-[*Corvus*](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=kCmP_NX3gwRIJM:&imgrefurl=https://commons.wikimedia.org/wiki/File:Corvus_constellation_map.png&docid=gjwuzm6hlxtUSM&imgurl=https://upload.wikimedia.org/wikipedia/commons/5/5e/Corvus_constellation_map.png&w=2559&h=1709&ei=POcFUtLuIfD8yAGGsICYAQ&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=169&tbnw=254&start=0&ndsp=13&tx=134&ty=67)
+[*Corvus*](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=kCmP_NX3gwRIJM:&imgrefurl=https://commons.wikimedia.org/wiki/File:Corvus_constellation_map.png&docid=gjwuzm6hlxtUSM&imgurl=https://upload.wikimedia.org/wikipedia/commons/5/5e/Corvus_constellation_map.png&w=2559&h=1709&ei=POcFUtLuIfD8yAGGsICYAQ&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=169&tbnw=254&start=0&ndsp=13&tx=134&ty=67)   'Crv' => [ 'Corvus',              '12 20'.hms_to_rad, -18.to_rad ]
 
-[*Crater*](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=KeJJXlyu3UDgUM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Crater_constellation_map.png&docid=0OrgY-cxTwiZsM&imgurl=http://upload.wikimedia.org/wikipedia/commons/f/f4/Crater_constellation_map.png&w=1789&h=1709&ei=ZOcFUs-fD9P3yAHg8IHgAQ&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=186&tbnw=195&start=0&ndsp=12&tx=90&ty=69)
+[*Crater*](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=KeJJXlyu3UDgUM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Crater_constellation_map.png&docid=0OrgY-cxTwiZsM&imgurl=http://upload.wikimedia.org/wikipedia/commons/f/f4/Crater_constellation_map.png&w=1789&h=1709&ei=ZOcFUs-fD9P3yAHg8IHgAQ&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=186&tbnw=195&start=0&ndsp=12&tx=90&ty=69)    'Crt' => [ 'Crater',              '11 20'.hms_to_rad, -15.to_rad ]
 
-[*Crux*](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=lWJZhpjz7jm7LM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Crux_constellation_map.png&docid=cnWHEk4L0TRrWM&imgurl=http://upload.wikimedia.org/wikipedia/commons/e/e3/Crux_constellation_map.png&w=900&h=950&ei=iucFUtytJIORygH1nYEI&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=199&tbnw=188&start=0&ndsp=14&tx=89&ty=74)
+[*Crux*](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=lWJZhpjz7jm7LM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Crux_constellation_map.png&docid=cnWHEk4L0TRrWM&imgurl=http://upload.wikimedia.org/wikipedia/commons/e/e3/Crux_constellation_map.png&w=900&h=950&ei=iucFUtytJIORygH1nYEI&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=199&tbnw=188&start=0&ndsp=14&tx=89&ty=74)   'Cru' => [ 'Crux',                '12 20'.hms_to_rad, -60.to_rad ]
 
-[*Cygnus*](http://www.google.com/imgres?imgurl=http://www.cygnus-books.co.uk/magazine/wp-content/uploads/2012/10/Cygnus.jpg&imgrefurl=http://www.cygnus-books.co.uk/magazine/tag/cygnus-review-2/&h=917&w=1317&sz=662&tbnid=CgCm73M66po0TM:&tbnh=93&tbnw=133&zoom=1&usg=__IASpbpZkVHpITjEYbsB8yFgA2XE=&docid=ME5pbHZbk7G9yM&sa=X&ei=qbIFUvHgJaK72AWLpYCYCQ&ved=0CKkBEP4dMA0#imgdii=CgCm73M66po0TM%3A%3Brrw3qKwqb-pb1M%3BCgCm73M66po0TM%3A)
+[*Cygnus*](http://www.google.com/imgres?imgurl=http://www.cygnus-books.co.uk/magazine/wp-content/uploads/2012/10/Cygnus.jpg&imgrefurl=http://www.cygnus-books.co.uk/magazine/tag/cygnus-review-2/&h=917&w=1317&sz=662&tbnid=CgCm73M66po0TM:&tbnh=93&tbnw=133&zoom=1&usg=__IASpbpZkVHpITjEYbsB8yFgA2XE=&docid=ME5pbHZbk7G9yM&sa=X&ei=qbIFUvHgJaK72AWLpYCYCQ&ved=0CKkBEP4dMA0#imgdii=CgCm73M66po0TM%3A%3Brrw3qKwqb-pb1M%3BCgCm73M66po0TM%3A) 	  'Cyg' => [ 'Cygnus',              '20 30'.hms_to_rad, +43.to_rad ]
 
 -
 
@@ -96,25 +96,27 @@
 	 
 	 
 	
-    'Car' => [ 'Carina',              ' 8 40'.hms_to_rad, -62.to_rad ],
-		'Cen' => [ 'Centaurus',           '13 20'.hms_to_rad, -47.to_rad ],
-    'Cep' => [ 'Cepheus',             '22  0'.hms_to_rad, +70.to_rad ],
-    'Cet' => [ 'Cetus',               ' 1 45'.hms_to_rad, -12.to_rad ],		
+ 
+ 
+	
+ 
+ 
   
 	  
    
    
-	  'Cas' => [ 'Cassiopeia',          ' 1  0'.hms_to_rad, +60.to_rad ],
-		'Cha' => [ 'Chamaeleon',          '10 40'.hms_to_rad, -78.to_rad ],
-    'Cir' => [ 'Circinus',            '14 50'.hms_to_rad, -63.to_rad ],
-	  'Col' => [ 'Columba',             ' 5 40'.hms_to_rad, -34.to_rad ],
-		'Com' => [ 'Com Berenices',       '12 40'.hms_to_rad, +23.to_rad ],
-    'CrA' => [ 'Corona Australis',    '18 30'.hms_to_rad, -41.to_rad ],	
-		'CrB' => [ 'Corona Borealis',     '12 20'.hms_to_rad, -18.to_rad ],
-	  'Crv' => [ 'Corvus',              '12 20'.hms_to_rad, -18.to_rad ],
-	  'Crt' => [ 'Crater',              '11 20'.hms_to_rad, -15.to_rad ],
-    'Cru' => [ 'Crux',                '12 20'.hms_to_rad, -60.to_rad ],
-	  'Cyg' => [ 'Cygnus',              '20 30'.hms_to_rad, +43.to_rad ],	 
+	 
+
+  
+	
+	
+  
+	
+	
+	
+  
+
+ 
     'Del' => [ 'Delphinus',           '20 35'.hms_to_rad, +12.to_rad ],
 	  'Dor' => [ 'Dorado',              ' 5  0'.hms_to_rad, -60.to_rad ],
 	  'Dra' => [ 'Draco',               '17  0'.hms_to_rad, +60.to_rad ],
