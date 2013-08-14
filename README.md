@@ -66,11 +66,11 @@
 
 -
 
-[Delphinus](http://www.google.com/imgres?newwindow=1&sa=X&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=0FzKyoyuIni1QM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Delphinus_constellation_map.png&docid=hsLptbHLmkZF-M&imgurl=http://upload.wikimedia.org/wikipedia/commons/4/49/Delphinus_constellation_map.png&w=1989&h=1989&ei=K98GUqOUGeOF2gWZ5IHgBQ&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=202&tbnw=202&start=0&ndsp=14&tx=106&ty=82)   'Del' => [ 'Delphinus',           '20 35'.hms_to_rad, +12.to_rad ]
+[Delphinus  20:35, +12](http://www.google.com/imgres?newwindow=1&sa=X&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=0FzKyoyuIni1QM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Delphinus_constellation_map.png&docid=hsLptbHLmkZF-M&imgurl=http://upload.wikimedia.org/wikipedia/commons/4/49/Delphinus_constellation_map.png&w=1989&h=1989&ei=K98GUqOUGeOF2gWZ5IHgBQ&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=202&tbnw=202&start=0&ndsp=14&tx=106&ty=82)   
 
-[Dorado](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=F-s9f5RSxMR7AM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Dorado_constellation_map.png&docid=tjyd94YysxQf7M&imgurl=http://upload.wikimedia.org/wikipedia/commons/5/50/Dorado_constellation_map.png&w=1789&h=2269&ei=WN8GUtnlMIb12wXu0oDwAg&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=202&tbnw=159&start=0&ndsp=14&tx=65&ty=103)   'Dor' => [ 'Dorado',              ' 5  0'.hms_to_rad, -60.to_rad ]
+[Dorado   05:00, -60](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=F-s9f5RSxMR7AM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Dorado_constellation_map.png&docid=tjyd94YysxQf7M&imgurl=http://upload.wikimedia.org/wikipedia/commons/5/50/Dorado_constellation_map.png&w=1789&h=2269&ei=WN8GUtnlMIb12wXu0oDwAg&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=202&tbnw=159&start=0&ndsp=14&tx=65&ty=103)  
 
-[Draco](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=Q4UGZAVb3uefXM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Draco_constellation_map_ru_lite.png&docid=ZCZ-02k-_sSMDM&imgurl=http://upload.wikimedia.org/wikipedia/commons/f/f6/Draco_constellation_map_ru_lite.png&w=2100&h=2100&ei=ed8GUp_yE-reyAGLkYDQBg&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=208&tbnw=208&start=0&ndsp=13&tx=102&ty=81)   'Dra' => [ 'Draco',               '17  0'.hms_to_rad, +60.to_rad ]
+[Draco   17:00, +60](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=Q4UGZAVb3uefXM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Draco_constellation_map_ru_lite.png&docid=ZCZ-02k-_sSMDM&imgurl=http://upload.wikimedia.org/wikipedia/commons/f/f6/Draco_constellation_map_ru_lite.png&w=2100&h=2100&ei=ed8GUp_yE-reyAGLkYDQBg&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=208&tbnw=208&start=0&ndsp=13&tx=102&ty=81)  
 
 -
 
