@@ -166,7 +166,7 @@
 
 [Pyxis,                08:50, -28](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=EZnl_BACjZdo8M:&imgrefurl=http://commons.wikimedia.org/wiki/File:Pyxis_constellation_map.png&docid=0trokGnbx4aVFM&imgurl=http://upload.wikimedia.org/wikipedia/commons/c/cc/Pyxis_constellation_map.png&w=1789&h=1989&ei=ywEMUoXpDeTXygH774GYDQ&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=190&tbnw=171&start=0&ndsp=15&tx=77&ty=78)
 
--	
+-
 
 [Reticulum,            03:50, -63](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=twMFDAFAAlKwHM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Reticulum_constellation_map.png&docid=XbOQSAV_d0W-wM&imgurl=http://upload.wikimedia.org/wikipedia/commons/3/3e/Reticulum_constellation_map.png&w=1789&h=2559&ei=gQIMUsSyNq-WyAGG4YDACA&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=192&tbnw=134&start=0&ndsp=16&tx=76&ty=73)
 
