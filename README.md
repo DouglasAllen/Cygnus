@@ -3,6 +3,7 @@
 -
 
 [Andromeda,            00:40, +38](http://www.google.com/imgres?newwindow=1&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=osnYJa_N1dsB-M:&imgrefurl=http://commons.wikimedia.org/wiki/File:Andromeda_constellation_map.png&docid=n2eZJvIKQFe1HM&imgurl=http://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Andromeda_constellation_map.png/1024px-Andromeda_constellation_map.png&w=1024&h=1024&ei=HLsFUqWRDunkyQGxm4DoAQ&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=197&tbnw=197&start=0&ndsp=15&tx=102&ty=59)
+* [Visible Stars](http://www.rasnz.org.nz/Stars/Andromeda.htm)
 
 [Antlia,               10:00, -35](http://www.google.com/imgres?newwindow=1&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=NnDEXGx92hNFQM:&imgrefurl=https://commons.wikimedia.org/wiki/File:Antlia_constellation_map.png&docid=e85SWNzLSHO8LM&imgurl=https://upload.wikimedia.org/wikipedia/commons/5/5e/Antlia_constellation_map.png&w=2559&h=2269&ei=zLsFUtmGGLHlyAHC8IBo&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=186&tbnw=210&start=0&ndsp=14&tx=83&ty=73) 
 
