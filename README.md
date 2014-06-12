@@ -20,7 +20,7 @@
 [Ara,                  17:10, -55](http://www.google.com/imgres?newwindow=1&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=O2ftOJu96felFM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Ara_constellation_map.png&docid=9W2vnOncUFnidM&imgurl=http://upload.wikimedia.org/wikipedia/commons/b/b9/Ara_constellation_map.png&w=1709&h=1989&ei=uL0FUuHgOefWyQGE2IAo&zoom=1&ved=1t:3588,r:1,s:0,i:83&iact=rc&page=1&tbnh=190&tbnw=163&start=0&ndsp=15&tx=50&ty=75)
 * [Visible Stars](http://www.rasnz.org.nz/Stars/Corona.htm)
 
-[Argo Navis                      ](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=UR5aLFG4MNRrXM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Argo_navis_constellation_map.png&docid=nCIof2aNofxyLM&imgurl=http://upload.wikimedia.org/wikipedia/commons/5/57/Argo_navis_constellation_map.png&w=2216&h=2753&ei=pwAMUu6dNuSkyAGYioD4BA&zoom=1&ved=1t:3588,r:9,s:0,i:107&iact=rc&page=1&tbnh=178&tbnw=143&start=0&ndsp=15&tx=60&ty=86)
+[Argo Navis            07:44, -50](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=UR5aLFG4MNRrXM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Argo_navis_constellation_map.png&docid=nCIof2aNofxyLM&imgurl=http://upload.wikimedia.org/wikipedia/commons/5/57/Argo_navis_constellation_map.png&w=2216&h=2753&ei=pwAMUu6dNuSkyAGYioD4BA&zoom=1&ved=1t:3588,r:9,s:0,i:107&iact=rc&page=1&tbnh=178&tbnw=143&start=0&ndsp=15&tx=60&ty=86)
 * [Visible Stars](http://www.rasnz.org.nz/Stars/Antlia.htm)
 * [Visible Stars](http://www.rasnz.org.nz/Stars/Carina.htm)
 * [Visible Stars](http://www.rasnz.org.nz/Stars/Vela.htm)
@@ -323,3 +323,5 @@ Interesting Links
 [Astronomy Central Northern Constellations](http://astronomycentral.co.uk/northern-hemisphere-constellation-maps/)
 
 [Royal Astronomical Society of New Zealand](http://www.rasnz.org.nz/)
+
+[Constellations of Words](http://www.constellationsofwords.com/)
