@@ -325,3 +325,7 @@ Interesting Links
 [Royal Astronomical Society of New Zealand](http://www.rasnz.org.nz/)
 
 [Constellations of Words](http://www.constellationsofwords.com/)
+
+[Night Vision](http://www.nvastro.com/nvj.html)
+
+[The Astronomical Almanac Online!Online!Online](http://asa.usno.navy.mil/SecH/BrightStars.html)
