@@ -34,7 +34,7 @@
 
 -
 
-[Bootes,               14:35, -20](http://www.google.com/imgres?newwindow=1&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=IlUU0FFN726JpM:&imgrefurl=https://commons.wikimedia.org/wiki/File:Bo%25C3%25B6tes_constellation_map.svg&docid=Fwc9dc7wllNz0M&imgurl=https://upload.wikimedia.org/wikipedia/commons/4/40/Bo%2525C3%2525B6tes_constellation_map.svg&w=2000&h=2573&ei=q78FUtKTD4isyAGK1oHYDw&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=207&tbnw=161&start=0&ndsp=14&tx=87&ty=101)
+[Bootes,               14:35, +30](http://www.google.com/imgres?newwindow=1&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=IlUU0FFN726JpM:&imgrefurl=https://commons.wikimedia.org/wiki/File:Bo%25C3%25B6tes_constellation_map.svg&docid=Fwc9dc7wllNz0M&imgurl=https://upload.wikimedia.org/wikipedia/commons/4/40/Bo%2525C3%2525B6tes_constellation_map.svg&w=2000&h=2573&ei=q78FUtKTD4isyAGK1oHYDw&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=207&tbnw=161&start=0&ndsp=14&tx=87&ty=101)
 * [Visible Stars](http://www.rasnz.org.nz/Stars/Bootes.htm)
 
 -
