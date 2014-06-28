@@ -329,3 +329,5 @@ Interesting Links
 [Night Vision](http://www.nvastro.com/nvj.html)
 
 [The Astronomical Almanac Online!Online!Online](http://asa.usno.navy.mil/SecH/BrightStars.html)
+
+[Rise/Set/Transit Times for Major Solar System Bodies and Bright Stars](http://aa.usno.navy.mil/data/docs/mrst.php)
