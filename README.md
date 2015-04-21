@@ -73,7 +73,7 @@
 * [Visible Stars](http://www.rasnz.org.nz/Stars/Centaurus.htm)
 
 [Cetus,                01:45, -12](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=fuvLmSqwEs-MDM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Cetus_constellation_map.png&docid=2hkHQ92Kkj2T7M&imgurl=http://upload.wikimedia.org/wikipedia/commons/1/16/Cetus_constellation_map.png&w=2559&h=2049&ei=G-YFUuzPIIuAygH43IDAAg&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=191&tbnw=239&start=0&ndsp=12&tx=102&ty=56) 
-* [Visible Stars](http://www.rasnz.org.nz/Stars/Cetus.htm)
+* [Visible Stars](http://www.rasnz.org.nz/31-constellation/181-cetus)
 
 [Chamaeleon, 	       10:40, -78](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=PyMN3MmrReG_tM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Chamaeleon_constellation_map.png&docid=QdUE8YitPIPwCM&imgurl=http://upload.wikimedia.org/wikipedia/commons/1/16/Chamaeleon_constellation_map.png&w=1789&h=1419&ei=ReYFUoiAI4KMygHOyYGQAQ&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=179&tbnw=226&start=0&ndsp=13&tx=95&ty=77) 
 * [Visible Stars](http://www.rasnz.org.nz/Stars/Pictor.htm)
