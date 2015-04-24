@@ -1,0 +1,456 @@
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+<title>SAO - Smithsonian Astrophysical Observatory Star Catalog</title>
+<link type="text/css" rel="stylesheet" href="SAO%20-%20Smithsonian%20Astrophysical%20Observatory%20Star%20Catalog_files/mytube.css"><script src="SAO%20-%20Smithsonian%20Astrophysical%20Observatory%20Star%20Catalog_files/mutationObserver.js"></script><script src="SAO%20-%20Smithsonian%20Astrophysical%20Observatory%20Star%20Catalog_files/mytube.js"></script></head>
+<body bgcolor="#cceeff">
+
+<table border="0" cellpadding="10">
+  <tbody><tr>
+    <td align="left"><a href="http://heasarc.gsfc.nasa.gov/db-perl/W3Browse/w3table.pl?tablehead=name%3Dsao&amp;Action=More+Options">Browse<br>this table...</a></td>
+    <td align="center"><h1>SAO - Smithsonian Astrophysical Observatory Star Catalog</h1></td>
+    <td align="right"><a href="http://heasarc.gsfc.nasa.gov/docs/archive.html">HEASARC<br>Archive</a></td>
+  </tr>
+</tbody></table>
+<hr>
+<h2><a name="overview">Overview</a></h2>
+This database is based on the electronic version of the SAO catalog from the
+Astronomical Data Center, which is itself based on an original binary version
+of the Smithsonian Astrophysical Observatory Star Catalog (SAO, SAO Staff
+1966). Subsequent improvements by T. A. Nagy (1979) included the addition of
+cross-identifications from the Table of Correspondences SAO/HD/DM/GC (Morin
+1973). As a prelude to creation of the 1984 version of the SAO, a new version
+of the SAO-HD-GC-DM Cross Index was prepared (Roman, Warren, and Schofield
+1983). The 1984 version of the SAO contained the corrected and extended cross
+identifications, all errata published up to January 1984 and known to the ADC,
+numerous errors forwarded to the ADC by colleagues, and errors discovered at
+the ADC during the course of this work. Clayton A. Smith of the U. S. Naval
+Observatory provided J2000.0 positions and proper motions for the SAO stars.
+Published and unpublished errors discovered in the previous version (1984)
+have been corrected (up to May 1991).
+<p>
+
+For this HEASARC representation, some parameters such as the RA and Dec in
+radians have been omitted.
+
+</p><hr><h3><a name="catalog_bibcode">Catalog Bibcode</a></h3>
+<a href="ftp://cdsarc.u-strasbg.fr/cats/I/131A/">&lt;I/131A/sao&gt;</a>
+
+<hr><h3><a name="references">References</a></h3>
+<pre>   Smithsonian Astrophysical Observatory Star Catalog
+    SAO Staff  &lt;Smithsonian Astrophysical Observatory (1966)&gt;
+   Morin, D. 1973, Table of Correspondences SAO/HD/DM/GC, Obs. de Meudon,
+      unpublished                                       =IV/12
+   Nagy, T.A. 1979, Documentation for the Machine-Readable Version of the
+      Smithsonian Astrophysical Observatory Catalog(ue) (EBCDIC Version),
+      Systems and Applied Sciences Corporation R-SAW-7/79-34
+   Roman, N.G., Warren Jr., W.H., and Schofield Jr., N.J. 1983, Documentation
+      for the Machine-Readable Version of the SAO-HD-GC-DM Cross Index,
+      Version 1983, NSSDC/WDC-A-R&amp;S 83-17
+</pre>
+
+<hr><h3><a name="provenance">Provenance</a></h3>
+This online version of the SAO Catalog was created by the HEASARC in March 2001
+based on ADC/CDS Catalog I/131A, which itself is originally derived from
+a character-coded machine-readable version of the Smithsonian Astrophysical
+Observatory Star Catalog (SAO, SAO Staff 1966) prepared by T.A. Nagy in 1979,
+and subsequently modified over the next decade or so. The first machine-readable
+version contained format modifications, cross identifications and other
+changes, and was the starting point of the version in this database.
+Additional changes were made to the SAO catalog over time (namely more cross
+identifications and corrections) which resulted in a new version in 1984.
+Finally, the most recent version of the catalog was published in 1989.  It
+included J2000 positions for all the objects, and corrections to errors known
+as of May 1989.
+
+<hr><h3><a name="deleted_entries">Deleted Entries</a></h3>
+53 entries marked as duplicates were removed from the HEASARC online version of
+the SAO Catalog. The SAO numbers of these deleted duplicates are as follows:
+<pre>SAO 9949     SAO 24671    SAO 31219    SAO 58906    SAO 67452    SAO 92316
+SAO 96663    SAO 100161   SAO 106477   SAO 133461   SAO 142402   SAO 172631
+SAO 180619   SAO 181584   SAO 186717   SAO 192426   SAO 193213   SAO 193858
+SAO 193896   SAO 201604   SAO 210293   SAO 210294   SAO 215182   SAO 216112
+SAO 217746   SAO 218092   SAO 218513   SAO 219513   SAO 222076   SAO 222287
+SAO 224194   SAO 225327   SAO 226938   SAO 227039   SAO 228027   SAO 228854
+SAO 229059   SAO 229831   SAO 231638   SAO 231703   SAO 232935   SAO 234389
+SAO 235962   SAO 235973   SAO 236668   SAO 238177   SAO 238511   SAO 240305
+SAO 241167   SAO 241172   SAO 242605   SAO 242962   SAO 246009
+</pre>
+
+<hr><h3><a name="parameters">Parameters</a></h3>
+<p>
+<b><a name="name">Name</a></b><br>
+  The primary name given is the SAO number, a sequence number prefixed
+  with 'SAO '.
+</p><p>
+<b><a name="ra">RA</a></b><br>
+  The Right Ascension in the selected equinox. This was given to a
+  precision of 0.001 seconds of time in the originating table, and in both B1950
+  Equator and Epoch, and J2000 Equator and Epoch. For the Web Browse version
+  of this database, we have ingested the J2000 Equator and Epoch position
+  since this is its default equator, while for the xray account Browse version,
+  we have ingested the B1950 Equator and Epoch position, since this is its
+  default equator. While the HEASARC Browse systems do have built-in precession
+  routines, they are not of astrometric accuracy and they do not include the
+  effects of proper motion, and thus set the equinox to the particular default
+  specified above to retain the full positional accuracy.
+</p><p>
+<b><a name="proper_motion_ra">Proper_Motion_RA</a></b><br>
+  The annual Proper Motion in the RA direction on the FK4
+  System, in seconds of time per annum (year).
+</p><p>
+<b><a name="proper_motion_ra_error">Proper_Motion_RA_Error</a></b><br>
+  The standard deviation in the Proper Motion in the
+  RA direction on the FK4 System, in milliarcseconds per annum (year).
+</p><p>
+<b><a name="ra_epoch">RA_Epoch</a></b><br>
+  The Original Epoch of RA2 in years. All epochs lie between 1875 and
+  1955.
+</p><p>
+<b><a name="dec">Dec</a></b><br>
+  The Declination in the selected equinox. This was given to a
+  precision of 0.01 arcseconds in the originating table, and in both B1950
+  Equator and Epoch, and J2000 Equator and Epoch. For the Web Browse version
+  of this database, we have ingested the J2000 Equator and Epoch position
+  since this is its default equator, while for the xray account Browse version,
+  we have ingested the B1950 Equator and Epoch position, since this is its
+  default equator. While the HEASARC Browse systems do have built-in precession
+  routines, they are not of astrometric accuracy and they do not include the
+  effects of proper motion, and thus set the equinox to the particular default
+  specified above to retain the full positional accuracy.
+</p><p>
+<b><a name="proper_motion_dec">Proper_Motion_Dec</a></b><br>
+  The annual Proper Motion in the Declination direction on
+  the FK4 System, in arcseconds per annum (year).
+</p><p>
+<b><a name="proper_motion_dec_error">Proper_Motion_Dec_Error</a></b><br>
+  The standard deviation in the Proper Motion in the
+  Declination direction on the FK4 System, in milliarcseconds per annum (year).
+</p><p>
+<b><a name="dec_epoch">Dec_Epoch</a></b><br>
+  The Original Epoch of Dec2 in years. All epochs lie between 1875
+  and 1955.
+</p><p>
+<b><a name="position_error">Position_Error</a></b><br>
+  The standard deviation of the position at epoch 1950.0, in
+  units of arcseconds (converted from the units of 10 milliarcseconds that
+  were used in the CDS/ADC table).
+</p><p>
+<b><a name="lii">LII</a></b><br>
+  The Galactic Longitude.
+</p><p>
+<b><a name="bii">BII</a></b><br>
+  The Galactic Latitude.
+</p><p>
+<b><a name="pg_mag">Pg_Mag</a></b><br>
+  The photographic magnitude.
+</p><p>
+<b><a name="vmag">Vmag</a></b><br>
+  The visual magnitude.
+</p><p>
+<b><a name="spect_type">Spect_Type</a></b><br>
+  The (one-dimensional) spectral type, where '+++'indicates that the
+  spectrum was either composite, varying, or peculiar.
+</p><p>
+<b><a name="ref_vmag">Ref_Vmag</a></b><br>
+  A reference code for the source of the visual magnitude, as below.
+  Always check the duplicity/variability code given in the remarks parameter when
+  using magnitudes.
+  </p><pre>           Photo-
+    Visual visual Magnitude source
+
+      0           Does not appear in source catalog
+      1      21   Determined by source catalog
+      2      22   Determined by source catalog or by authority in footnote
+      3      23   Source cited in source catalog introduction
+             24   Source unspecified
+      5           Taken from "Bonner Durchmusterung"
+      8           Based on Durchmusterung magnitudes and visual estimates
+      9           Taken from AGK1
+     10           Taken from Cordoba Zones (Resultados)
+     12           Taken from CGA (Perrine 1911a, b) or Cordoba Zones
+     13           Taken from Harvard publications
+     14           Taken from Harvard or San Luis photometry
+     15           Taken from the "Henry Draper Catalogue"
+     16           Combined magnitude of component stars
+     17           Arithmetic mean of maximum and minimum magnitudes of a
+                    variable star
+  </pre>
+<p>
+<b><a name="ref_star_number">Ref_Star_Number</a></b><br>
+  A reference code for the source of the star numbers and
+  footnotes information as follows:
+  </p><pre>      Footnote
+    without with  Star Number
+
+      0      16   Source catalog only
+      1      17   Source catalog and BD
+      2      18   Source catalog and CD
+      3      19   Source catalog and CPD
+      4      20   Cordoba B (Resultados) and CD
+      5      21   Cordoba A (Resultados) and CD
+      6      22   AGK1 and BD
+      7           GC and BD
+      8      24   Cordoba B (Resultados) and CPD
+      9           Cordoba A (Resultados) and CPD
+  </pre>
+  When blank, the code for DM is 0 or 16, footnote is 0 through 9, and field is
+  all zeros. Footnotes and star numbers are those appearing in the source
+  catalogs.
+<p>
+<b><a name="ref_pg_mag">Ref_Pg_Mag</a></b><br>
+  A reference code for the source of the photographic magnitude:
+  </p><pre>    Code  Source
+
+      0   Does not appear in source catalog
+      1   Determined by source catalog
+      4   Taken from magnitudes of the CPD and diameters
+          of the  Cape Astrographic Catalogue
+      8   Source cited in source catalog introduction
+      9   Columbia Contributions Numbers 30 and 31
+          (Schilt and Hill 1937, 1938)
+  </pre>
+  When blank, code is 0 and field is all zeros.
+<p>
+<b><a name="ref_proper_motion">Ref_Proper_Motion</a></b><br>
+  A reference code for the source of the proper motions:
+  </p><pre>    Code  Source
+
+      1   Determined by source catalog
+      3   Determined by comparison of catalog and Greenwich AC
+      5   Determined by comparison of catalog and AGK1
+      6   Determined by comparison of catalog and Greenwich AC
+          on the basis of the smallest difference in positions
+          (see page xiii of source reference)
+      8   Determined by comparison of catalog and AGK1 on the
+          basis of the smallest difference in positions
+          (see page xiii of source reference)
+  </pre>
+<p>
+<b><a name="ref_spect_type">Ref_Spect_Type</a></b><br>
+  A reference code for the source of the spectral types:
+  </p><pre>    Code  Source
+    ----------------------------------------------------------
+      0   Taken from the Henry Draper Catalogue or no
+          spectrum in source catalog
+      1   Taken from the HD with M stars reclassified by Miss Cannon
+      2   Classified by G. G. Cillie
+      3   Classified by Goedicke
+      4   Classified by D. Hoffleit
+      5   Classified by M. W. Mayall
+      6   Classified at Leander McCormick Observatory
+      7   Classified by Nassau and Seyfert
+  </pre>
+  If the spectrum is composite, "+++" is stored in the field and the code is 0.
+<p>
+<b><a name="remarks">Remarks</a></b><br>
+  A referenc code for miscellaneous remarks on duplicity and
+  variability:
+  </p><pre>    Code  Meaning
+
+      0   No additional information
+      1   Double star - see source catalog for source
+      2   Double star in Aitken's Double Star Catalogue
+          (Aitken 1932)
+      3   Double star in Burnham's Double Star Catalogue
+          (Burnham 1906)
+      4   Variable star in visual magnitude in source catalog
+      5   Variable star in photographic magnitude in source catalog
+      6   Variable star in both magnitudes
+      7   Both double and variable, in either visual or
+          photographic magnitudes
+  </pre>
+  When blank, code is 0, no field is involved.
+<p>
+<b><a name="ref_source_cat">Ref_Source_Cat</a></b><br>
+  A reference code for the specific source catalog:
+  </p><pre>           No.      Abbreviated Title
+
+           01       AGK2, Volume 1
+           02       AGK2, Volume 2
+           03       AGK2, Volume 5
+           04       AGK2, Volume 6
+           05       AGK2, Volume 7
+           06       AGK2, Volume 8
+           20       Yale Transactions 11
+           21       Yale Transactions 12   Part I
+           22       Yale Transactions 12   Part II
+           23       Yale Transactions 13   Part I
+           24       Yale Transactions 13   Part II
+           25       Yale Transactions 14
+           26       Yale Transactions 16
+           27       Yale Transactions 17
+           28       Yale Transactions 18
+           29       Yale Transactions 19
+           30       Yale Transactions 20
+           31       Yale Transactions 21
+           32       Yale Transactions 22   Part I
+           33       Yale Transactions 22   Part II
+           34       Yale Transactions 24
+           35       Yale Transactions 25
+           36       Yale Transactions 26   Part I
+           37       Yale Transactions 26   Part II
+           38       Yale Transactions 27
+           40       Cape Annals 17
+           41       Cape Annals 18
+           42       Cape Annals 19
+           43       Cape Annals 20
+           48       Cape Zone
+           60       Melbourne 3
+           61       Melbourne 4
+           70       GC
+           71       FK3
+           74       FK4
+  </pre>
+<p>
+<b><a name="num_source_cat">Num_Source_Cat</a></b><br>
+  The star number in the specific source catalog specified in
+  the ref_source_cat parameter.
+</p><p>
+<b><a name="dm">DM</a></b><br>
+  The Durchmusterung identification (BD, CD, or CP number), and component
+  identification if there are two or more SAO stars having the same DM number.
+</p><p>
+<b><a name="hd">HD</a></b><br>
+  The Henry Draper Catalog (HD or HDE) Number.
+</p><p>
+<b><a name="hd_component">HD_Component</a></b><br>
+  The HD component and multiple code:
+  </p><pre>    Code   Meaning
+
+      0    Single star or primary with a companion &gt; 0.3 mag
+           (visual) fainter.
+      1    Brighter component with a companion &lt;= 0.3 mag fainter.
+      2    Fainter component with a companion &lt;= 0.3 mag brighter.
+      9    The "SAO Catalog" entry refers to two consecutive
+           HD numbers, the lower of which is given.
+  </pre>
+<p>
+<b><a name="gc">Gc</a></b><br>
+  The Boss General Catalog (GC) Number.
+</p><p>
+<b><a name="proper_motion_ra_fk5">Proper_Motion_RA_FK5</a></b><br>
+  The annual Proper Motion in the RA direction on the FK5
+  System, in seconds of time per annum (year).
+</p><p>
+<b><a name="proper_motion_dec_fk5">Proper_Motion_Dec_FK5</a></b><br>
+  The Annual Proper Motion in the Declination direction
+  on the FK5 System, in arcseconds per annum (year).
+</p><p>
+<b><a name="class">Class</a></b><br>
+  The HEASARC Browse object classification, based on the spectral type
+  contained in the spect_type parameter.
+
+</p><hr><h3><a name="contact_person">Contact Person</a></h3>
+Questions regarding the SAO database table can be addressed to the
+<a href="http://heasarc.gsfc.nasa.gov/cgi-bin/Feedback">HEASARC User Hotline</a>.
+
+<!--================================================================-->
+<style type="text/css">
+<!--
+.footer {
+  font-size: 70%;
+}
+-->
+</style>
+<hr>
+
+
+
+<!-- This is portalfooter.html -->
+<!-- Because some pages don't use the header files that include the css, the styles need to be written out here.  -->
+
+<!--full-width-content-item-->
+                                      <div class="divClear" style="clear:both;"></div>            
+                            <!--id = maincontent-->
+                   <!--id="content-wrapper"-->       
+			<!--id="content"-->
+		 <div class="divClear" style="clear:both;"></div>
+<div class="navigation">
+<div id="HEASARCfooter" style="background-color:#2E2E2E;height:20px;width:952px;border-top:none;margin:0 auto;margin-top:5px;">
+<table width="100%">
+<tbody><tr><td style="text-align:center;vertical-align:middle;">
+<p style="color:#B2B2B2;font-size:11px;text-decoration:none;font-family:Arial,Helvetica,sans-serif;margin:0;">A service of the <a href="http://science.gsfc.nasa.gov/660/" style="color:#B2B2B2;font-size:11px;text-decoration:none;font-family:Arial,Helvetica,sans-serif;">Astrophysics Science Division</a> at <a href="http://www.nasa.gov/" style="color:#B2B2B2;font-size:11px;text-decoration:none;font-family:Arial,Helvetica,sans-serif;">NASA/</a><a href="http://www.nasa.gov/goddard" style="color:#B2B2B2;font-size:11px;text-decoration:none;font-family:Arial,Helvetica,sans-serif;">GSFC</a> and the <a href="http://www.cfa.harvard.edu/hea/" style="color:#B2B2B2;font-size:11px;text-decoration:none;font-family:Arial,Helvetica,sans-serif;">High Energy Astrophysics Division</a> of the <a href="http://cfa-www.harvard.edu/sao/" style="color:#B2B2B2;font-size:11px;text-decoration:none;font-family:Arial,Helvetica,sans-serif;">Smithsonian Astrophysical Observatory</a> (SAO)</p>
+</td></tr>
+</tbody></table>
+</div>
+
+<div id="footer" style="background-color:#2E2E2E;height:98px;width:952px;border-top:2px solid #222222;margin:0 auto;">
+            	<div>
+                    <a href="http://www.nasa.gov/" class="imageLink" style="display:block;float:left;"><img class="logo" style="border:0;" src="SAO%20-%20Smithsonian%20Astrophysical%20Observatory%20Star%20Catalog_files/nasa_header_logo1.gif" alt="NASA Logo, National Aeronautics and Space Administration" height="98" width="140"></a>
+                </div><!--class="nasaLogo"-->
+
+            	<div id="footer-signature" style="padding-left:20px;padding-top:19px;float:left;">
+                		<a href="http://www.nasa.gov/goddard/" class="imageLink" style="display:block;float:left;"><img class="logo" style="border:0;" src="SAO%20-%20Smithsonian%20Astrophysical%20Observatory%20Star%20Catalog_files/goddardsignature2.png" alt="Goddard Space Flight Center Signature Logo" height="68" width="172"></a>
+                </div>
+                <div class="nasafootlinks" style="float:left;height:84px;margin-left:15px;padding-left:0px;padding-top:14px;width:295px;">
+                	<ul style="list-style:none;padding:0;margin:0;">
+	                <li style="margin-bottom:2px;color:#B2B2B2;font-size:11px;font-family:Arial,Helvetica,sans-serif;">HEASARC Director: Dr. Alan P. Smale</li>
+                        <li style="margin-bottom:2px;color:#B2B2B2;font-size:11px;font-family:Arial,Helvetica,sans-serif;">HEASARC Associate Director: Dr. Roger Brissenden</li>
+                    	<li style="margin-bottom:2px;color:#B2B2B2;font-size:11px;font-family:Arial,Helvetica,sans-serif;">NASA Official: Phil Newman</li>
+                        <li style="margin-bottom:2px;color:#B2B2B2;font-size:11px;font-family:Arial,Helvetica,sans-serif;">Web Curator: <a href="mailto:john.d.myers@nasa.gov">J.D. Myers</a></li>
+	                <li style="margin-bottom:2px;color:#B2B2B2;font-size:11px;font-family:Arial,Helvetica,sans-serif;">Last Modified:  8-Nov-2004</li>
+                    </ul>
+                </div><!--nasafootlinks-->
+                 <div class="nasafootlinks" id="footerRight" style="float:left;height:84px;margin-left:15px;padding-left:0px;padding-top:14px;width:295px;">
+                	<ul style="list-style:none;padding:0;margin:0;">
+                        <li style="margin-bottom:2px;padding-left:12px;background:url(/Images/portal_new/rsaquo_gray.gif) no-repeat scroll 0 1px transparent;color:#B2B2B2;font-size:11px;"><a href="http://science.nasa.gov/astrophysics/" style="color:#B2B2B2;font-size:11px;text-decoration:none;font-family:Arial,Helvetica,sans-serif;">NASA Astrophysics</a></li>
+                        <li style="margin-bottom:2px;padding-left:12px;background:url(/Images/portal_new/rsaquo_gray.gif) no-repeat scroll 0 1px transparent;color:#B2B2B2;font-size:11px;text-decoration:none;font-family:Arial,Helvetica,sans-serif;"><a href="http://heasarc.gsfc.nasa.gov/docs/faq.html" style="color:#B2B2B2;font-size:11px;text-decoration:none;font-family:Arial,Helvetica,sans-serif;">FAQ/Comments/Feedback</a></li>
+                        <li style="margin-bottom:2px;padding-left:12px;background:url(/Images/portal_new/rsaquo_gray.gif) no-repeat scroll 0 1px transparent;color:#B2B2B2;font-size:11px;"><a href="http://heasarc.gsfc.nasa.gov/docs/outreach.html" style="color:#B2B2B2;font-size:11px;text-decoration:none;font-family:Arial,Helvetica,sans-serif;">Education Resources</a></li>
+                        <li style="margin-bottom:2px;padding-left:12px;background:url(/Images/portal_new/rsaquo_gray.gif) no-repeat scroll 0 1px transparent;color:#B2B2B2;font-size:11px;"><a href="http://heasarc.gsfc.nasa.gov/docs/plugins.html" style="color:#B2B2B2;font-size:11px;text-decoration:none;font-family:Arial,Helvetica,sans-serif;">Find helper applications like Adobe Acrobat</a></li>
+                        <li style="margin-bottom:2px;padding-left:12px;background:url(/Images/portal_new/rsaquo_gray.gif) no-repeat scroll 0 1px transparent;color:#B2B2B2;font-size:11px;"><a target="_blank" href="http://www.nasa.gov/about/highlights/HP_Privacy.html" style="color:#B2B2B2;font-size:11px;text-decoration:none;font-family:Arial,Helvetica,sans-serif;">Privacy Policy &amp; Important Notices</a></li>
+					</ul>
+                </div><!--nasafootlinks-->
+                
+            </div><!--id=footer-->
+</div><mytubeelement data="{&quot;bundle&quot;:{&quot;label_delimitor&quot;:&quot;:&quot;,&quot;percentage&quot;:&quot;%&quot;,&quot;smart_buffer&quot;:&quot;Smart Buffer&quot;,&quot;start_playing_when_buffered&quot;:&quot;Start playing when buffered&quot;,&quot;sound&quot;:&quot;Sound&quot;,&quot;desktop_notification&quot;:&quot;Desktop Notification&quot;,&quot;continuation_on_next_line&quot;:&quot;-&quot;,&quot;loop&quot;:&quot;Loop&quot;,&quot;only_notify&quot;:&quot;Only Notify&quot;,&quot;estimated_time&quot;:&quot;Estimated Time&quot;,&quot;global_preferences&quot;:&quot;Global Preferences&quot;,&quot;no_notification_supported_on_your_browser&quot;:&quot;No notification style supported on your browser version&quot;,&quot;video_buffered&quot;:&quot;Video Buffered&quot;,&quot;buffered&quot;:&quot;Buffered&quot;,&quot;hyphen&quot;:&quot;-&quot;,&quot;buffered_message&quot;:&quot;The video has been buffered as requested and is ready to play.&quot;,&quot;not_supported&quot;:&quot;Not Supported&quot;,&quot;on&quot;:&quot;On&quot;,&quot;off&quot;:&quot;Off&quot;,&quot;click_to_enable_for_this_site&quot;:&quot;Click to enable for this site&quot;,&quot;desktop_notification_denied&quot;:&quot;You have denied permission for desktop notification for this site&quot;,&quot;notification_status_delimitor&quot;:&quot;;&quot;,&quot;error&quot;:&quot;Error&quot;,&quot;adblock_interferance_message&quot;:&quot;Adblock (or similar extension) is known to interfere with SmartVideo. Please add this url to adblock whitelist.&quot;,&quot;calculating&quot;:&quot;Calculating&quot;,&quot;waiting&quot;:&quot;Waiting&quot;,&quot;will_start_buffering_when_initialized&quot;:&quot;Will start buffering when initialized&quot;,&quot;will_start_playing_when_initialized&quot;:&quot;Will start playing when initialized&quot;,&quot;completed&quot;:&quot;Completed&quot;,&quot;buffering_stalled&quot;:&quot;Buffering is stalled. Will stop.&quot;,&quot;stopped&quot;:&quot;Stopped&quot;,&quot;hr&quot;:&quot;Hr&quot;,&quot;min&quot;:&quot;Min&quot;,&quot;sec&quot;:&quot;Sec&quot;,&quot;any_moment&quot;:&quot;Any Moment&quot;,&quot;popup_donate_to&quot;:&quot;Donate to&quot;,&quot;extension_id&quot;:null},&quot;prefs&quot;:{&quot;desktopNotification&quot;:true,&quot;soundNotification&quot;:true,&quot;logLevel&quot;:0,&quot;enable&quot;:true,&quot;loop&quot;:false,&quot;hidePopup&quot;:false,&quot;autoPlay&quot;:false,&quot;autoBuffer&quot;:false,&quot;autoPlayOnBuffer&quot;:false,&quot;autoPlayOnBufferPercentage&quot;:42,&quot;autoPlayOnSmartBuffer&quot;:true,&quot;quality&quot;:&quot;default&quot;,&quot;fshd&quot;:false,&quot;onlyNotification&quot;:false,&quot;enableFullScreen&quot;:true,&quot;saveBandwidth&quot;:false,&quot;hideAnnotations&quot;:false,&quot;turnOffPagedBuffering&quot;:false}}" event="preferencesUpdated" id="myTubeRelayElementToPage"></mytubeelement><mytubeelement data="{&quot;loadBundle&quot;:true}" event="relayPrefs" id="myTubeRelayElementToTab"></mytubeelement><!--end navigation-->
+		<!--id="page"-->
+	<!--id = page-wrapper-->
+
+
+
+<!-- This file is a placeholder for files that include /docs/corpfooter.html -->
+
+<hr>
+<em>Page Author:</em> <a href="http://heasarc.gsfc.nasa.gov/cgi-bin/Feedback">Browse Software Development Team</a><br>
+<em>Last Modified:</em>  8-Nov-2004
+
+<pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</pre>
+
+
+
+</body></html>

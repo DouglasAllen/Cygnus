@@ -1,0 +1,809 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+<title>HIPPARCOS - Hipparcos Main Catalog</title>
+<link type="text/css" rel="stylesheet" href="HIPPARCOS%20-%20Hipparcos%20Main%20Catalog_files/mytube.css"><script src="HIPPARCOS%20-%20Hipparcos%20Main%20Catalog_files/mutationObserver.js"></script><script src="HIPPARCOS%20-%20Hipparcos%20Main%20Catalog_files/mytube.js"></script></head>
+<body bgcolor="#cceeff">
+
+<table align="center" border="0" cellpadding="10" width="100%">
+  <tbody><tr>
+    <td align="left"><a href="http://heasarc.gsfc.nasa.gov/db-perl/W3Browse/w3table.pl?tablehead=name%3Dhipparcos&amp;Action=More+Options">Browse<br>this table...</a></td>
+    <td align="center"><h1>HIPPARCOS - Hipparcos Main Catalog</h1></td>
+    <td align="right"><a href="http://heasarc.gsfc.nasa.gov/docs/archive.html">HEASARC<br>Archive</a></td>
+  </tr>
+</tbody></table>
+<hr>
+<h2><a name="overview">Overview</a></h2>
+The Hipparcos and Tycho Catalogues are the primary products of the
+European Space Agency's astrometric mission, Hipparcos. The satellite,
+which operated for four years, returned high quality scientific data
+from November 1989 to March 1993.
+<p>
+
+Each of the catalogues contains a large quantity of very high quality
+astrometric and photometric data. In addition there are associated
+annexes featuring variability and double/multiple star data, and solar
+system astrometric and photometric measurements. In the case of the
+Hipparcos Catalogue, the principal parts are provided in both printed
+and machine-readable form (on CDROM). In the case of the Tycho
+Catalogue, results are provided in machine-readable form only (on
+CDROM). Although in general only the final reduced and calibrated
+astrometric and photometric data are provided, some auxiliary files
+containing results from intermediate stages of the data processing, of
+relevance for the more-specialised user, have also been retained for
+publication. (Some, but not all, data files are available from the
+Centre de Donnees astronomiques de Strasbourg.)
+</p><p>
+
+The global data analysis tasks, proceeding from nearly 1000 Gbit of
+raw satellite data to the final catalogues, was a lengthy and complex
+process, and was undertaken by the NDAC and FAST Consortia, together
+responsible for the production of the Hipparcos Catalogue, and the
+Tycho Consortium, responsible for the production of the Tycho
+Catalogue. A fourth scientific consortium, the INCA Consortium, was
+responsible for the construction of the Hipparcos observing programme,
+compiling the best-available data for the selected stars before launch
+into the Hipparcos Input Catalogue. The production of the Hipparcos
+and Tycho Catalogues marks the formal end of the involvement in the
+mission by the European Space Agency and the four scientific
+consortia.
+</p><p>
+
+For much more information about this catalog, such as fuller descriptions
+of the parameters, the user is urged to check the Hipparcos and Tycho
+Catalogs website at <a href="http://www.rssd.esa.int/Hipparcos/catalog.html">http://www.rssd.esa.int/Hipparcos/catalog.html</a>
+
+</p><hr><h3><a name="catalog_bibcode">Catalog Bibcode</a></h3>
+<a href="http://adsabs.harvard.edu/cgi-bin/bib_query?1997A&amp;A...323L..49P">1997A&amp;A...323L..49P</a>
+
+<hr><h3><a name="references">References</a></h3>
+<pre>Perryman M.A.C., Lindegren L., Kovalevsky J., Hog E., Bastian U.,
+Bernacca P.L., Creze M., Donati F., Grenon M., Grewing M.,
+van Leeuwen F., van der Marel H., Mignard F., Murray C.A.,
+Le Poole R.S., Schrijver H., Turon C., Arenou F., Froeschle M.,
+Petersen C.S., "The Hipparcos Catalogue" (1997A&amp;A...323L..49P)
+
+Lindegren L., Mignard F., Soederhjelm S., Badiali M., Bernstein H.H.,
+Lampens P., Pannunzio R., Arenou F., Bernacca P.L., Falin J.L.,
+Froeschle M., Kovalevsky J., Martin C., Perryman M.A.C., Wielen R.
+"Double star data in the Hipparcos Catalogue" (1997A&amp;A...323L..53L)
+
+Hog E., Baessgen G., Bastian U., Egret D., Fabricius C., Grossmann V.,
+Halbwachs J.L., Makarov V.V., Perryman M.A.C., Schwekendiek P.,
+Wagner K., Wicenec A., "The Tycho Catalogue" (1997A&amp;A...323L..57H)
+
+van Leeuwen F., Evans D.W., Grenon M., Grossmann V., Mignard F.,
+Perryman M.A.C., "The Hipparcos mission: photometric data."
+(1997A&amp;A...323L..61V)
+</pre>
+
+<hr><h3><a name="provenance">Provenance</a></h3>
+This database table was created by the HEASARC in April 2000 based on CDS
+Catalog I/239/hip_main: the Hipparcos Main Catalog. It was updated in October
+2002 to fix some entries which were missing coordinates.
+
+<hr><h3><a name="heasarc_parameter_names">HEASARC Parameter Names</a></h3>
+The following is a correlation table of the
+Hipparcos Catalogue fields, the parameter names as implemented by the CDS,
+and the HEASARC names for these parameters:
+<pre>Hipparcos   CDS Name    HEASARC Name       Description
+Cat. Field
+
+--          * New *    Name               /Catalog Designation
+H0          Catalog    * Not Displayed *  /Catalogue (H=Hipparcos)
+H1          HIP        HIP_Number         /Identifier (HIP number)
+H2          Proxy      Prox_10asec        /Proximity flag
+H3          RAhms      RA                 /RA in h m s, ICRS (J1991.25)
+H4          DEdms      Dec                /Dec in deg ' ", ICRS (J1991.25)
+H5          Vmag       Vmag               /Magnitude in Johnson V
+H6          VarFlag    Var_Flag           /Coarse variability flag
+H7          r_Vmag     Vmag_Source        /Source of magnitude
+H8          RAdeg      RA_Deg             /RA in degrees (ICRS, Epoch-J1991.25)
+H9          DEdeg      Dec_Deg            /Dec in degrees (ICRS, Epoch-J1991.25)
+H10         AstroRef   Astrom_Ref_Dbl     /Reference flag for astrometry
+H11         Plx        Parallax           /Trigonometric parallax
+H12         pmRA       pm_RA              /Proper motion in RA
+H13         pmDE       pm_Dec             /Proper motion in Dec
+H14         e_RAdeg    RA_Error           /Standard error in RA*cos(Dec_Deg)
+H15         e_DEdeg    Dec_Error          /Standard error in Dec_Deg
+H16         e_Plx      Parallax_Error     /Standard error in Parallax
+H17         e_pmRA     pm_RA_Error        /Standard error in pmRA
+H18         e_pmDE     pm_Dec_Error       /Standard error in pmDE
+H19         DE:RA      Crl_Dec_RA         /(DE over RA)xCos(delta)
+H20         Plx:RA     Crl_Plx_RA         /(Plx over RA)xCos(delta)
+H21         Plx:DE     Crl_Plx_Dec        /(Plx over DE)
+H22         pmRA:RA    Crl_pmRA_RA        /(pmRA over RA)xCos(delta)
+H23         pmRA:DE    Crl_pmRA_Dec       /(pmRA over DE)
+H24         pmRA:Plx   Crl_pmRA_Plx       /(pmRA over Plx)
+H25         pmDE:RA    Crl_pmDec_RA       /(pmDE over RA)xCos(delta)
+H26         pmDE:DE    Crl_pmDec_Dec      /(pmDE over DE)
+H27         pmDE:Plx   Crl_pmDec_Plx      /(pmDE over Plx)
+H28         pmDE:pmRA  Crl_pmDec_pmRA     /(pmDE over pmRA)
+H29         F1         Reject_Percent     /Percentage of rejected data
+H30         F2         Quality_Fit        /Goodness-of-fit parameter
+H31         ---        * Not Displayed *  /HIP number (repetition)
+H32         BTmag      BT_Mag             /Mean BT magnitude
+H33         e_BTmag    BT_Mag_Error       /Standard error on BTmag
+H34         VTmag      VT_Mag             /Mean VT magnitude
+H35         e_VTmag    VT_Mag_Error       /Standard error on VTmag
+H36         m_BTmag    BT_Mag_Ref_Dbl     /Reference flag for BT and VTmag
+H37         B-V        BV_Color           /Johnson BV colour
+H38         e_B-V      BV_Color_Error     /Standard error on BV
+H39         r_B-V      BV_Mag_Source      /Source of BV from Ground or Tycho
+H40         V-I        VI_Color           /Colour index in Cousins' system
+H41         e_V-I      VI_Color_Error     /Standard error on VI
+H42         r_V-I      VI_Color_Source    /Source of VI
+H43         CombMag    Mag_Ref_Dbl        /Flag for combined Vmag, BV, VI
+H44         Hpmag      Hip_Mag            /Median magnitude in Hipparcos system
+H45         e_Hpmag    Hip_Mag_Error      /Standard error on Hpmag
+H46         Hpscat     Scat_Hip_Mag       /Scatter of Hpmag
+H47         o_Hpmag    N_Obs_Hip_Mag      /Number of observations for Hpmag
+H48         m_Hpmag    Hip_Mag_Ref_Dbl    /Reference flag for Hpmag
+H49         Hpmax      Hip_Mag_Max        /Hpmag at maximum (5th percentile)
+H50         HPmin      Hip_Mag_Min        /Hpmag at minimum (95th percentile)
+H51         Period     Var_Period         /Variability period (days)
+H52         HvarType   Hip_Var_Type       /Variability type
+H53         moreVar    Var_Data_Annex     /Additional data about variability
+H54         morePhoto  Var_Curv_Annex     /Light curve Annex
+H55         CCDM       CCDM_Id            /CCDM identifier
+H56         n_CCDM     CCDM_History       /Historical status flag
+H57         Nsys       CCDM_N_Entries     /Number of entries with same CCDM
+H58         Ncomp      CCDM_N_Comp        /Number of components in this entry
+H59         MultFlag   Dbl_Mult_Annex     /Double and or Multiple Systems flag
+H60         Source     Astrom_Mult_Source /Astrometric source flag
+H61         Qual       Dbl_Soln_Qual      /Solution quality flag
+H62         m_HIP      Dbl_Ref_ID         /Component identifiers
+H63         theta      Dbl_Theta          /Position angle between components
+H64         rho        Dbl_Rho            /Angular separation of components
+H65         e_rho      Rho_Error          /Standard error of rho
+H66         dHp        Diff_Hip_Mag       /Magnitude difference of components
+H67         e_dHp      dHip_Mag_Error     /Standard error in dHp
+H68         Survey     Survey_Star        /Flag indicating a Survey Star
+H69         Chart      ID_Chart           /Identification Chart
+H70         Notes      Notes              /Existence of notes
+H71         HD         HD_Id              /HD number &lt;III 135&gt;
+H72         BD         BD_Id              /Bonner DM &lt;I 119&gt;, &lt;I 122&gt;
+H73         CoD        CoD_Id             /Cordoba Durchmusterung (DM) &lt;I 114&gt;
+H74         CPD        CPD_Id             /Cape Photographic DM &lt;I 108&gt;
+H75         (V-I)red   VI_Color_Reduct    /VI used for reductions
+H76         SpType     Spect_Type         /Spectral type
+H77         r_SpType   Spect_Type_Source  /Source of spectral type
+--          * New *    Class              /HEASARC BROWSE classification
+</pre>
+
+<hr><h3><a name="parameters">Parameters</a></h3>
+<p>
+<b><a name="name">Name</a></b><br>
+  Name of the star in the recommended format for Hipparcos stars, as
+  created by concatenating the prefix 'HIP ' and the Hip_Number identifier in
+  the original catalog. Entries in the Hipparcos (HIP) Catalog have exactly the
+  same identifier as in the Hipparcos Input Catalog (HIC), notice.
+</p><p>
+<b><a name="ra">RA</a></b><br>
+  Right ascension in the specified equinox for epoch J1991.25. This
+  was given in the ICRS reference system (J2000 equator) in the original
+  Hipparcos Catalog, and thus equinox 2000 should be specified to avoid
+  inaccuracies due to the non-rigorous HEASARC coordinate precession algorithm.
+  This parameter was given to a truncated precision of 0.01 seconds of time in
+  the original Hipparcos Catalog. If the 'precise' RA is desired, one should
+  use the value of the parameter RA_deg which contains the complete RA in
+  decimal degrees.
+</p><p>
+<b><a name="dec">Dec</a></b><br>
+  Declination in specified equinox for epoch J1991.25. This
+  was given in the ICRS reference system (J2000 equator) in the original
+  Hipparcos Catalog, and thus equinox 2000 should be specified to avoid
+  inaccuracies due to the non-rigorous HEASARC coordinate precession algorithm.
+  This parameter was given to a truncated precision of 0.1 arcseconds in the
+  original Hipparcos Catalog. If the 'precise' declination is desired, one
+  should use the value of the parameter Dec_deg which contains the complete
+  declination in decimal degrees.
+</p><p>
+<b><a name="lii">LII</a></b><br>
+  Galactic longitude.
+</p><p>
+<b><a name="bii">BII</a></b><br>
+  Galactic latitude.
+</p><p>
+<b><a name="hip_number">HIP_Number</a></b><br>
+  The Hipparcos Catalog running number, which is the same as the
+  that in the Hipparcos Input Catalog.  The star entries are, with a few
+  exceptions, ordered by increasing HIP number, which basically follows the
+  order of the object's right ascension (Equinox J2000) independent of
+  declination.
+</p><p>
+<b><a name="prox_10asec">Prox_10asec</a></b><br>
+  A proximity flag which provides a coarse indication of the
+  presence of nearby objects within 10 arcseconds of the position of the
+  given star. If non-blank, it indicates that there are one or more distinct
+  Hipparcos ('H') or Tycho ('T') Catalog entries; if both 'H' and 'T' apply,
+  then 'H' is the adopted value, notice.
+</p><p>
+<b><a name="vmag">Vmag</a></b><br>
+  The magnitude in Johnson V band, given to a precision of 0.01 magnitudes
+  in the original Hipparcos Catalog.
+</p><p>
+<b><a name="var_flag">Var_Flag</a></b><br>
+  A coarse variability flag which indicates if the entry (or one
+  of the components in the case of a multiple system) is variable in its
+  Hipparcos magnitude Hip_mag at the level of:
+  </p><pre>       1: &lt; 0.06mag ; 2: 0.06-0.6mag ; 3: &gt;0.6mag
+  </pre>
+<p>
+<b><a name="vmag_source">Vmag_Source</a></b><br>
+  The source of the V magnitude:
+  </p><pre>       G:  ground-based multicolor photometry, either directly in or
+           reduced to the Johnson UBV system
+       H:  Hipparcos magnitude Hip_mag, combined with information on the
+           color index (either V-I or BT_mag-VT_mag), in combination with
+           the luminosoty class
+       T:  Tycho photometry, i.e., VT_mag and BT_mag-VT_mag
+        :  no data available
+  </pre>
+<p>
+<b><a name="ra_deg">RA_Deg</a></b><br>
+  The right ascension expressed in degrees for epoch J1991.25
+  (JD2448349.0625 (TT)) in the ICRS (International Celestial Reference System,
+  consistent with J2000) reference system, and given to a precision of 10<sup>-8</sup>
+  degrees in the original Hipparcos Catalog. There are 263 cases where these
+  fields are missing (no astrometric solution could be found).
+</p><p>
+<b><a name="dec_deg">Dec_Deg</a></b><br>
+  The declination expressed in degrees for epoch J1991.25
+  (JD2448349.0625 (TT)) in the ICRS (International Celestial Reference System,
+  consistent with J2000) reference system, and given to a precision of 10<sup>-8</sup>
+  degrees in the original Hipparcos Catalog.  There are 263 cases where these
+  fields are missing (no astrometric solution could be found)
+</p><p>
+<b><a name="astrom_ref_dbl">Astrom_Ref_Dbl</a></b><br>
+  Reference flag for astrometric parameters of double and
+  multiple systems. This flag indicates that the astrometric parameters
+  refer to:
+  </p><pre>    A, B etc: the letter indicates the specified component of a double
+              or multiple system
+           *: the photocentre of a double or multiple system included in
+              Part C of the Double and Multiple Systems Annex
+           +: the centre of mass: for such an entry, an orbit is given in
+              Part O of the Double and Multiple Systems Annex
+  </pre>
+<p>
+<b><a name="parallax">Parallax</a></b><br>
+  The trigonometric parallax pi in units of milliarcseconds: thus
+  to calculate the distance D in parsecs, D = 1000/pi. The estimated parallax
+  is given for every star, even if it appears to be insignificant or negative.
+</p><p>
+<b><a name="pm_ra">PM_RA</a></b><br>
+  The proper motion component in the RA direction expressed in
+  milliarcseconds per Julian year (mas/yr), and given with respect to the
+  ICRS reference system: mu_RA* = mu_RA x cos (declination).
+</p><p>
+<b><a name="pm_dec">PM_Dec</a></b><br>
+  The proper motion component in the declination direction expressed
+  in milliarcseconds per Julian year (mas/yr), and given with respect to the
+  ICRS reference system.
+</p><p>
+<b><a name="ra_error">RA_Error</a></b><br>
+  The standard error in the Right Ascension given at the
+  catalog epoch, J1991.25, and expressed in milliarcseconds:
+  sigma_RA* = sigma_RA x cos (declination).
+</p><p>
+<b><a name="dec_error">Dec_Error</a></b><br>
+  The standard error in the declination given at the
+  catalog epoch, J1991.25, and expressed in milliarcseconds.
+</p><p>
+<b><a name="parallax_error">Parallax_Error</a></b><br>
+  The standard error in the parallax
+  given in milliarcseconds.
+</p><p>
+<b><a name="pm_ra_error">PM_RA_Error</a></b><br>
+  The standard error in the proper motion component in the RA
+  direction expressed in milliarcseconds per Julian year (mas/yr):
+  sigma_mu_RA* = sigma_mu_RA x cos (declination).
+</p><p>
+<b><a name="pm_dec_error">PM_Dec_Error</a></b><br>
+  The standard error in the proper motion component in the
+  declination direction expressed in milliarcseconds per Julian year (mas/yr),
+  sigma_mu_declination.
+</p><p>
+<b><a name="crl_dec_ra">Crl_Dec_RA</a></b><br>
+  The correlation coefficient expressed as a real numerical
+  value (in the printed catalog this is expressed in per cent, notice):
+  (declination over RA).
+</p><p>
+<b><a name="crl_plx_ra">Crl_Plx_RA</a></b><br>
+  The correlation coefficient expressed as a real numerical
+  value (in the printed catalog this is expressed in per cent, notice):
+  (parallax over RA).
+</p><p>
+<b><a name="crl_plx_dec">Crl_Plx_Dec</a></b><br>
+  The correlation coefficient expressed as a real numerical
+  value (in the printed catalog this is expressed in per cent, notice):
+  (parallax over declination).
+</p><p>
+<b><a name="crl_pmra_ra">Crl_Pmra_RA</a></b><br>
+  The correlation coefficient expressed as a real numerical
+  value (in the printed catalog this is expressed in per cent, notice):
+  (proper motion in RA over RA).
+</p><p>
+<b><a name="crl_pmra_dec">Crl_Pmra_Dec</a></b><br>
+  The correlation coefficient expressed as a real numerical
+  value (in the printed catalog this is expressed in per cent, notice):
+  (proper motion in RA over declination).
+</p><p>
+<b><a name="crl_pmra_plx">Crl_Pmra_Plx</a></b><br>
+  The correlation coefficient expressed as a real numerical
+  value (in the printed catalog this is expressed in per cent, notice):
+  (proper motion in RA over parallax).
+</p><p>
+<b><a name="crl_pmdec_ra">Crl_Pmdec_RA</a></b><br>
+  The correlation coefficient expressed as a real numerical
+  value (in the printed catalog this is expressed in per cent, notice):
+  (proper motion in declination over RA).
+</p><p>
+<b><a name="crl_pmdec_dec">Crl_Pmdec_Dec</a></b><br>
+  The correlation coefficient expressed as a real numerical
+  value (in the printed catalog this is expressed in per cent, notice):
+  (proper motion in declination over declination).
+</p><p>
+<b><a name="crl_pmdec_plx">Crl_Pmdec_Plx</a></b><br>
+  The correlation coefficient expressed as a real numerical
+  value (in the printed catalog this is expressed in per cent, notice):
+  (proper motion in declination over parallax).
+</p><p>
+<b><a name="crl_pmdec_pmra">Crl_Pmdec_Pmra</a></b><br>
+  The correlation coefficient expressed as a real numerical
+  value (in the printed catalog this is expressed in per cent, notice):
+  (proper motion in declination over proper motion in RA).
+</p><p>
+<b><a name="reject_percent">Reject_Percent</a></b><br>
+  The percentage of data that had to be rejected in order
+  to obtain an acceptable solution.
+</p><p>
+<b><a name="quality_fit">Quality_Fit</a></b><br>
+  The goodness-of-fit statistic: this number indicates the
+  goodness of fit of the astrometric solution to the accepted data (i.e.,
+  excluding the rejected data). For good fits, this should approximately
+  follow a normal distribution with zero mean value and unit standard
+  deviation. Values exceeding, say +3, thus indicate a bad fit to the data.
+</p><p>
+<b><a name="bt_mag">BT_Mag</a></b><br>
+  The mean magnitude in the Tycho photometric system, B_T.
+</p><p>
+<b><a name="bt_mag_error">BT_Mag_Error</a></b><br>
+  The standard error of the B_T magnitude, BT_mag.
+</p><p>
+<b><a name="vt_mag">VT_Mag</a></b><br>
+  The mean magnitude in the Tycho photometric system, V_T.
+</p><p>
+<b><a name="vt_mag_error">VT_Mag_Error</a></b><br>
+  The standard error of the V_T magnitude, VT_mag.
+</p><p>
+<b><a name="bt_mag_ref_dbl">BT_Mag_Ref_Dbl</a></b><br>
+  a reference flag for BT_mag and VT_mag which indicates,
+  for non-single stars, the component measured in Tycho photometry, or
+  indicates that several components have been directly measured together
+  by Tycho, or have had their Tycho data combined. The flag takes the
+  following values:
+  </p><pre>   A, B, etc. : the Tycho photometry refers to the designated Hipparcos
+                Catalog component
+            * : the Tycho photometry refers to all components of the
+                relevant Hipparcos entry
+            - : the Tycho photometry refers to a single-pointing triple or
+                quadruple system, for which only a close pair has been
+                observed by Tycho, the other components being too faint
+                to be detected by Tycho
+  </pre>
+<p>
+<b><a name="bv_color">BV_Color</a></b><br>
+  The (B-V) color index in, or reduced to, the Johnson UBV system.
+</p><p>
+<b><a name="bv_color_error">BV_Color_Error</a></b><br>
+  The standard error of the (B-V) color index, BV_Color.
+</p><p>
+<b><a name="bv_mag_source">BV_Mag_Source</a></b><br>
+  The source of the (B-V) color index, BV_Color:
+  </p><pre>            G: indicates that it was taken from ground-based observations
+            T: indicates that it was determined from the transformed Tycho
+               (B_T-V_T) data
+             : indicates that no data are available
+  </pre>
+<p>
+<b><a name="vi_color">VI_Color</a></b><br>
+  the (V-I) color index in Cousins' photometric system; it
+  represents the best available (V-I) value at the time of the Hipparcos
+  Catalog publication.
+</p><p>
+<b><a name="vi_color_error">VI_Color_Error</a></b><br>
+  The standard error in the (V-I) color index, VI_Color.
+</p><p>
+<b><a name="vi_color_source">VI_Color_Source</a></b><br>
+  The Source of the (V-I) color index, VI_Color (see
+  Section 1.3, Appendix 5 of the published Hipparcos Catalog for full
+  details):
+  </p><pre>       'A'        :for an observation of V-I in Cousins' system;
+       'B' to 'K' :when V-I derived from measurements in other
+                   bands/photoelectric systems
+       'L' to 'P' :when V-I derived from Hipparcos and Star Mapper
+                   photometry
+       'Q'        :for long-period variables
+       'R' to 'T' :when colours are unknown
+  </pre>
+<p>
+<b><a name="mag_ref_dbl">Mag_Ref_Dbl</a></b><br>
+  A reference flag for the (B-V) and (V-I) color indices
+  and the V magnitude Vmag (and all their standard errors) which is set
+  to '*' when they refer to the combined light of double or multiple
+  systems which are otherwise resolved by the main mission astrometry
+  and photometry.
+</p><p>
+<b><a name="hip_mag">HIP_Mag</a></b><br>
+  The median magnitude H_P in the Hipparcos photometric system,
+  and defined on the basis of the accepted observations (or field transits)
+  for a given star. Note that the Hipparcos magnitude could not be determined
+  for 14 stars.
+</p><p>
+<b><a name="hip_mag_error">HIP_Mag_Error</a></b><br>
+  The standard error of the median magnitude H_P.
+</p><p>
+<b><a name="scat_hip_mag">Scat_HIP_Mag</a></b><br>
+  The scatter of the H_P observations.
+</p><p>
+<b><a name="n_obs_hip_mag">N_Obs_HIP_Mag</a></b><br>
+  The number of H_P observations: this is the number of
+  photometric observations (or field transits) used for the construction
+  of the median, standard error, and scatter in H_P.
+</p><p>
+<b><a name="hip_mag_ref_dbl">HIP_Mag_Ref_Dbl</a></b><br>
+  A reference flag for the Hipparcos photometric
+  parameters. For a double or multiple entry, this flag indicates that the
+  photometry refers to:
+  </p><pre>   A, B, etc. : the specified component of a double or multiple system
+            * : combined photometry of a double system, corrected for
+                attenuation by the detector's instantaneous field of view
+                profile response
+            - : combined photometry of a double system, NOT corrected for
+                attenuation by the detector's instantaneous field of view
+                profile response
+  </pre>
+<p>
+<b><a name="hip_mag_max">HIP_Mag_Max</a></b><br>
+  The observed magnitude at maximum luminosity. This is
+  defined as the 5th percentile of the epoch photometry.
+</p><p>
+<b><a name="hip_mag_min">HIP_Mag_Min</a></b><br>
+  The observed magnitude at minimum luminosity. This is
+  defined as the 95th percentile of the epoch photometry.
+</p><p>
+<b><a name="var_period">Var_Period</a></b><br>
+  The variability period, or a provisional estimate of such
+  a period, derived on the basis of the Hipparcos data (possibly in
+  combination with ground-based observations) and expressed in days,
+  with a precision of 0.01 days.
+</p><p>
+<b><a name="hip_var_type">HIP_Var_Type</a></b><br>
+  The variability type: the sources of scatter in the
+  photometric data are various, and this flag indicates the origin of
+  the extra scatter, which may be astrophysical, or, in some cases,
+  instrumental. See Section 1.3, Appendix 2 of the published Hipparcos
+  Catalog for a more detailed description. Amongst astrophysical sources
+  of variability, this parameter only distinguishes between 'M'
+  (micro-variables), 'P' (periodic variables), and 'U' (unsolved
+  variables). Further variability details for the periodic or unsolved
+  variables are included in the Variability Annex. The flag takes the
+  following values:
+  </p><pre>       C : no variability detected ("constant")
+       D : duplicity-induced variability
+       M : possibly micro-variable, with amplitude &lt; 0.03 mag (stars
+           classified with high confidence as micro-variable are flagged U)
+       P : periodic variable
+       R : the V-I colour index was revised during the variability analysis
+       U : unsolved variable which does not fall in the other categories;
+           this class also includes irregular or semi-regular variables,
+           and possibly varaibles with amplitude &gt; or ~ 0.03 mag
+         : a blank indicates that the entry could not be classified as
+           variable or constant with any degree of certainty
+  </pre>
+<p>
+<b><a name="var_data_annex">Var_Data_Annex</a></b><br>
+  A Variability Annex flag indicating the existence of
+  additional tabular data in the Variability Annex, where '1' means that
+  additional data are provided in a table of periodic variables, and '2'
+  means that additional data are provided in a table of 'unsolved' variables.
+</p><p>
+<b><a name="var_curv_annex">Var_Curv_Annex</a></b><br>
+  A Variability Annex flag indicating the existence of a
+  light curve, or a folded light curve, in the Variability Annex, where
+  'A' means the light curve is folded, and 'B' or 'C' mean that the
+  light curve is NOT folded.
+</p><p>
+<b><a name="ccdm_id">CCDM_ID</a></b><br>
+  The Catalog of Components of Double and Multiple Stars (CCDM)
+  identifier.
+</p><p>
+<b><a name="ccdm_history">CCDM_History</a></b><br>
+  The historical status of the CCDM identifier.
+  The flag takes the following values:
+  </p><pre>       H : system determined as double or multiple by the Hipparcos
+           observations, and was previously unknown as double or multiple
+       I : system previously identified as multiple, as given in Annex 1
+           of the Hipparcos Input Catalog (HIC)
+       M : miscellaneous (system had been previously identified, after
+           publication of the HIC, using other more recently available
+           catalogs and compilations)
+  </pre>
+<p>
+<b><a name="ccdm_n_entries">CCDM_N_Entries</a></b><br>
+  The number of separate catalog entries with the same
+  CCDM identifier.
+</p><p>
+<b><a name="ccdm_n_comp">CCDM_N_Comp</a></b><br>
+  The number of components into which the entry was
+  resolved as a result of the satellite observations and data reductions.
+</p><p>
+<b><a name="dbl_mult_annex">Dbl_Mult_Annex</a></b><br>
+  The Double and Multiple Systems Annex flag. This
+  indicates that further details of this system are given in one of the 5
+  (mutually exclusive) parts of the Double and Multiple Systems Annex
+  labelled as follows:
+  </p><pre>       C : solutions for the components
+       G : acceleration or higher order terms
+       O : orbital solutions
+       V : variability-induced movers (apparent motion arises from variability
+           of one of the components of a double system)
+       X : stochastic solution (probably astrometric binaries of short period)
+  </pre>
+<p>
+<b><a name="astrom_mult_source">Astrom_Mult_Source</a></b><br>
+  A flag for the source of the absolute astrometry.
+  This parameter qualifies the source of the astrometric parameters for
+  some of the entries with a value of 'C' for the parameter Dbl_Mult_Annex.
+  The values are as follows:
+  </p><pre>       P : primary target of a 2- or 3-pointing system
+       F : secondary or tertiary of a 2- or 3-pointing 'fixed' system
+           (common parallax and proper motions)
+       I : secondary or tertiary of a 2- or 3-pointing 'independent'
+           system (no constraints on parallax or proper motions)
+       L : secondary or tertiary of a 2- or 3-pointing 'linear' system
+           (common parallax)
+       S : astrometric parameters from 'single-star merging' process.
+  </pre>
+<p>
+<b><a name="dbl_soln_qual">Dbl_Soln_Qual</a></b><br>
+  A solution quality flag which indicates the reliability
+  of the double or multiple star solution, and is set for all entries in
+  Part C of the Double and Multiple Systems Annex. The flags can be
+  understood as follows:
+  </p><pre>       A: 'good', or reliable solution
+       B: 'fair', or moderately reliable solution
+       C: 'poor', or less reliable solution
+       D: uncertain solution
+       S: suspected non-single, i.e., possible double or multiple,
+          although no significant or convincing non-single star solution
+          was found
+  </pre>
+<p>
+<b><a name="dbl_ref_id">Dbl_Ref_ID</a></b><br>
+  Component designation for the double star parameters,
+  Dbl_theta, dbl_rho, etc. The first letter gives the 'reference' component,
+  and the second letter gives the subsidiary component. In the case of the
+  Hipparcos observations, the reference component is always defined to be
+  the brighter component (in median H_P) such that the magnitude difference
+  between the components (Diff_Hip_Mag) is always positive.
+</p><p>
+<b><a name="dbl_theta">Dbl_Theta</a></b><br>
+  The rounded value for the position angle between the components
+  specified in the Dbl_Ref_id field, expressed in degrees (in the usual
+  sense measured counterclockwise from North).
+</p><p>
+<b><a name="dbl_rho">Dbl_Rho</a></b><br>
+  The rounded value for the angular separation between the
+  components specified in the Dbl_Ref_id field, expressed in arcseconds.
+</p><p>
+<b><a name="rho_error">Rho_Error</a></b><br>
+  The standard error of the angular separation, Dbl_Rho,
+  given in arcseconds.
+</p><p>
+<b><a name="diff_hip_mag">Diff_HIP_Mag</a></b><br>
+  The Hipparcos magnitude difference of the components
+  specified in the Dbl_Ref_id field, expressed in magnitudes.
+</p><p>
+<b><a name="dhip_mag_error">Dhip_Mag_Error</a></b><br>
+  The standard error of the Hipparcos magnitude difference,
+  expressed in magnitudes.
+</p><p>
+<b><a name="survey_star">Survey_Star</a></b><br>
+  A flag indicating a `survey' star. The `survey' was the
+  basic list of bright stars added to and merged with the total list of
+  proposed stars, to provide a stellar sample (almost) complete to
+  well-defined limits. A flag 'S' indicates that the entry is contained
+  within this `survey', whose limiting magnitude is a function of the
+  stars's spectral type and galactic latitude b and is defined by:
+  </p><pre>     V &lt;= 7.9 + 1.1 x |sin b| for spectral types earlier or equal to G5
+     V &lt;= 7.3 + 1.1 x |sin b| for spectral types later than G5
+  </pre>
+  If no spectral data were available, the break was taken at (B-V) = 0.8
+  mag.
+<p>
+<b><a name="id_chart">ID_Chart</a></b><br>
+  A flag indicating an identification chart. Where identification
+  of a star using ground-based telescopes might prove difficult or
+  ambiguous, identification chrats were constructed and are available
+  in Volume 13 of the printed catalog. Charts correspond to the object
+  observed by the satellite (i.e., at the posotion given in this catalog),
+  even if it was not the intended target. The flag takes the following
+  values: 'D' for charts produced directly from the STScI Digitized Sky
+  Survey (776 entries) or 'G' for charts constructed from the Guide Star
+  Catalog (10877 entries).
+</p><p>
+<b><a name="notes">Notes</a></b><br>
+  A flag indicating a note is given at the end of the volume(s)
+  in the printed catalog. The flag has the following meaning:
+  </p><pre>       D : double and multiple systems note only (Volume 10)
+       G : general note only (Volumes 5-9)
+       P : photometric (including variability) notes only (Volume 11)
+       W : D + P only
+       X : D + G only
+       Y : G + P only
+       Z : D + G + P
+  </pre>
+<p>
+<b><a name="hd_id">HD_ID</a></b><br>
+  HD/HDE/HDEC identifier (CDS Catalog &lt;III 135&gt;).
+</p><p>
+<b><a name="bd_id">BD_ID</a></b><br>
+  Bonner Durchmusterung (BD) identifier (CDS Catalogs &lt;I 119&gt;,
+  &lt;I 122&gt;). BD identifiers, unlike the CoD and CPD identifiers, may carry
+  a suffix letter for additional stars, i.e., stars with suffixes 'A',
+  "B', 'P', or 'S': these stars were added to the BD Catalog after the
+  original numbering was made, and such suffixes do not imply that the
+  entry is a component of a double or multiple system.
+</p><p>
+<b><a name="cod_id">CoD_ID</a></b><br>
+  Cordoba Durchmusterung (CoD) identifier (CDS Catalog &lt;I 114&gt;).
+</p><p>
+<b><a name="cpd_id">CPD_ID</a></b><br>
+  Cape Photographic Durchmusterung (CPD) identifier (CDS Catalog
+  &lt;I 108&gt;).
+</p><p>
+<b><a name="vi_color_reduct">VI_Color_Reduct</a></b><br>
+  The (V-I) color index used for the photometric
+  processing (not necessarily the same as the `final' value given in
+  the parameter VI_mag).
+</p><p>
+<b><a name="spect_type">Spect_Type</a></b><br>
+  The MK or HD spectral type acquired from ground-based
+  compilations and primarily taken from the Hipparcos Input Catalog,
+  with some updates, especially for variable stars.
+</p><p>
+<b><a name="spect_type_source">Spect_Type_Source</a></b><br>
+  The source of the spectral type. The flag indicates
+  the source as follows:
+  </p><pre>   1 : Michigan catalogue for the HD stars, vol. 1 (Houk+, 1975) &lt;III/31&gt;
+   2 : Michigan catalogue for the HD stars, vol. 2 (Houk, 1978) &lt;III/51&gt;
+   3 : Michigan Catalogue for the HD stars, vol. 3 (Houk, 1982) &lt;III/80&gt;
+   4 : Michigan Catalogue for the HD stars, vol. 4 (Houk+, 1988) &lt;III/133&gt;
+   G : updated after publication of the HIC &lt;I/196&gt;
+   K : General Catalog of Variable Stars, 4th Ed. (Kholopov+ 1988) &lt;II/139&gt;
+   S : SIMBAD database at <a href="http://cdsweb.u-strasbg.fr/Simbad.html">http://cdsweb.u-strasbg.fr/Simbad.html</a>
+   X : Miscellaneous
+     : A blank entry has no corresponding information.
+  </pre>
+<p>
+<b><a name="class">Class</a></b><br>
+  BROWSE classification created by the HEASARC based on the
+  value of the spect_type parameter.
+
+</p><hr><h3><a name="contact_person">Contact Person</a></h3>
+Questions regarding the HIPPARCOS database table can be addressed to the
+<a href="http://heasarc.gsfc.nasa.gov/cgi-bin/Feedback">HEASARC User Hotline</a>.
+
+<!--================================================================-->
+<style type="text/css">
+<!--
+.footer {
+  font-size: 70%;
+}
+-->
+</style>
+<hr>
+
+
+
+<!-- This is portalfooter.html -->
+<!-- Because some pages don't use the header files that include the css, the styles need to be written out here.  -->
+
+<!--full-width-content-item-->
+                                      <div class="divClear" style="clear:both;"></div>            
+                            <!--id = maincontent-->
+                   <!--id="content-wrapper"-->       
+			<!--id="content"-->
+		 <div class="divClear" style="clear:both;"></div>
+<div class="navigation">
+<div id="HEASARCfooter" style="background-color:#2E2E2E;height:20px;width:952px;border-top:none;margin:0 auto;margin-top:5px;">
+<table width="100%">
+<tbody><tr><td style="text-align:center;vertical-align:middle;">
+<p style="color:#B2B2B2;font-size:11px;text-decoration:none;font-family:Arial,Helvetica,sans-serif;margin:0;">A service of the <a href="http://science.gsfc.nasa.gov/660/" style="color:#B2B2B2;font-size:11px;text-decoration:none;font-family:Arial,Helvetica,sans-serif;">Astrophysics Science Division</a> at <a href="http://www.nasa.gov/" style="color:#B2B2B2;font-size:11px;text-decoration:none;font-family:Arial,Helvetica,sans-serif;">NASA/</a><a href="http://www.nasa.gov/goddard" style="color:#B2B2B2;font-size:11px;text-decoration:none;font-family:Arial,Helvetica,sans-serif;">GSFC</a> and the <a href="http://www.cfa.harvard.edu/hea/" style="color:#B2B2B2;font-size:11px;text-decoration:none;font-family:Arial,Helvetica,sans-serif;">High Energy Astrophysics Division</a> of the <a href="http://cfa-www.harvard.edu/sao/" style="color:#B2B2B2;font-size:11px;text-decoration:none;font-family:Arial,Helvetica,sans-serif;">Smithsonian Astrophysical Observatory</a> (SAO)</p>
+</td></tr>
+</tbody></table>
+</div>
+
+<div id="footer" style="background-color:#2E2E2E;height:98px;width:952px;border-top:2px solid #222222;margin:0 auto;">
+            	<div>
+                    <a href="http://www.nasa.gov/" class="imageLink" style="display:block;float:left;"><img class="logo" style="border:0;" src="HIPPARCOS%20-%20Hipparcos%20Main%20Catalog_files/nasa_header_logo1.gif" alt="NASA Logo, National Aeronautics and Space Administration" height="98" width="140"></a>
+                </div><!--class="nasaLogo"-->
+
+            	<div id="footer-signature" style="padding-left:20px;padding-top:19px;float:left;">
+                		<a href="http://www.nasa.gov/goddard/" class="imageLink" style="display:block;float:left;"><img class="logo" style="border:0;" src="HIPPARCOS%20-%20Hipparcos%20Main%20Catalog_files/goddardsignature2.png" alt="Goddard Space Flight Center Signature Logo" height="68" width="172"></a>
+                </div>
+                <div class="nasafootlinks" style="float:left;height:84px;margin-left:15px;padding-left:0px;padding-top:14px;width:295px;">
+                	<ul style="list-style:none;padding:0;margin:0;">
+	                <li style="margin-bottom:2px;color:#B2B2B2;font-size:11px;font-family:Arial,Helvetica,sans-serif;">HEASARC Director: Dr. Alan P. Smale</li>
+                        <li style="margin-bottom:2px;color:#B2B2B2;font-size:11px;font-family:Arial,Helvetica,sans-serif;">HEASARC Associate Director: Dr. Roger Brissenden</li>
+                    	<li style="margin-bottom:2px;color:#B2B2B2;font-size:11px;font-family:Arial,Helvetica,sans-serif;">NASA Official: Phil Newman</li>
+                        <li style="margin-bottom:2px;color:#B2B2B2;font-size:11px;font-family:Arial,Helvetica,sans-serif;">Web Curator: <a href="mailto:john.d.myers@nasa.gov">J.D. Myers</a></li>
+	                <li style="margin-bottom:2px;color:#B2B2B2;font-size:11px;font-family:Arial,Helvetica,sans-serif;">Last Modified: 28-Aug-2012</li>
+                    </ul>
+                </div><!--nasafootlinks-->
+                 <div class="nasafootlinks" id="footerRight" style="float:left;height:84px;margin-left:15px;padding-left:0px;padding-top:14px;width:295px;">
+                	<ul style="list-style:none;padding:0;margin:0;">
+                        <li style="margin-bottom:2px;padding-left:12px;background:url(/Images/portal_new/rsaquo_gray.gif) no-repeat scroll 0 1px transparent;color:#B2B2B2;font-size:11px;"><a href="http://science.nasa.gov/astrophysics/" style="color:#B2B2B2;font-size:11px;text-decoration:none;font-family:Arial,Helvetica,sans-serif;">NASA Astrophysics</a></li>
+                        <li style="margin-bottom:2px;padding-left:12px;background:url(/Images/portal_new/rsaquo_gray.gif) no-repeat scroll 0 1px transparent;color:#B2B2B2;font-size:11px;text-decoration:none;font-family:Arial,Helvetica,sans-serif;"><a href="http://heasarc.gsfc.nasa.gov/docs/faq.html" style="color:#B2B2B2;font-size:11px;text-decoration:none;font-family:Arial,Helvetica,sans-serif;">FAQ/Comments/Feedback</a></li>
+                        <li style="margin-bottom:2px;padding-left:12px;background:url(/Images/portal_new/rsaquo_gray.gif) no-repeat scroll 0 1px transparent;color:#B2B2B2;font-size:11px;"><a href="http://heasarc.gsfc.nasa.gov/docs/outreach.html" style="color:#B2B2B2;font-size:11px;text-decoration:none;font-family:Arial,Helvetica,sans-serif;">Education Resources</a></li>
+                        <li style="margin-bottom:2px;padding-left:12px;background:url(/Images/portal_new/rsaquo_gray.gif) no-repeat scroll 0 1px transparent;color:#B2B2B2;font-size:11px;"><a href="http://heasarc.gsfc.nasa.gov/docs/plugins.html" style="color:#B2B2B2;font-size:11px;text-decoration:none;font-family:Arial,Helvetica,sans-serif;">Find helper applications like Adobe Acrobat</a></li>
+                        <li style="margin-bottom:2px;padding-left:12px;background:url(/Images/portal_new/rsaquo_gray.gif) no-repeat scroll 0 1px transparent;color:#B2B2B2;font-size:11px;"><a target="_blank" href="http://www.nasa.gov/about/highlights/HP_Privacy.html" style="color:#B2B2B2;font-size:11px;text-decoration:none;font-family:Arial,Helvetica,sans-serif;">Privacy Policy &amp; Important Notices</a></li>
+					</ul>
+                </div><!--nasafootlinks-->
+                
+            </div><!--id=footer-->
+</div><!--end navigation-->
+		<!--id="page"-->
+	<!--id = page-wrapper-->
+
+
+
+<!-- This file is a placeholder for files that include /docs/corpfooter.html -->
+
+<hr>
+<em>Page Author:</em> <a href="http://heasarc.gsfc.nasa.gov/cgi-bin/Feedback">Browse Software Development Team</a><br>
+<em>Last Modified:</em> 28-Aug-2012
+
+<pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</pre>
+
+
+
+<mytubeelement data="{&quot;bundle&quot;:{&quot;label_delimitor&quot;:&quot;:&quot;,&quot;percentage&quot;:&quot;%&quot;,&quot;smart_buffer&quot;:&quot;Smart Buffer&quot;,&quot;start_playing_when_buffered&quot;:&quot;Start playing when buffered&quot;,&quot;sound&quot;:&quot;Sound&quot;,&quot;desktop_notification&quot;:&quot;Desktop Notification&quot;,&quot;continuation_on_next_line&quot;:&quot;-&quot;,&quot;loop&quot;:&quot;Loop&quot;,&quot;only_notify&quot;:&quot;Only Notify&quot;,&quot;estimated_time&quot;:&quot;Estimated Time&quot;,&quot;global_preferences&quot;:&quot;Global Preferences&quot;,&quot;no_notification_supported_on_your_browser&quot;:&quot;No notification style supported on your browser version&quot;,&quot;video_buffered&quot;:&quot;Video Buffered&quot;,&quot;buffered&quot;:&quot;Buffered&quot;,&quot;hyphen&quot;:&quot;-&quot;,&quot;buffered_message&quot;:&quot;The video has been buffered as requested and is ready to play.&quot;,&quot;not_supported&quot;:&quot;Not Supported&quot;,&quot;on&quot;:&quot;On&quot;,&quot;off&quot;:&quot;Off&quot;,&quot;click_to_enable_for_this_site&quot;:&quot;Click to enable for this site&quot;,&quot;desktop_notification_denied&quot;:&quot;You have denied permission for desktop notification for this site&quot;,&quot;notification_status_delimitor&quot;:&quot;;&quot;,&quot;error&quot;:&quot;Error&quot;,&quot;adblock_interferance_message&quot;:&quot;Adblock (or similar extension) is known to interfere with SmartVideo. Please add this url to adblock whitelist.&quot;,&quot;calculating&quot;:&quot;Calculating&quot;,&quot;waiting&quot;:&quot;Waiting&quot;,&quot;will_start_buffering_when_initialized&quot;:&quot;Will start buffering when initialized&quot;,&quot;will_start_playing_when_initialized&quot;:&quot;Will start playing when initialized&quot;,&quot;completed&quot;:&quot;Completed&quot;,&quot;buffering_stalled&quot;:&quot;Buffering is stalled. Will stop.&quot;,&quot;stopped&quot;:&quot;Stopped&quot;,&quot;hr&quot;:&quot;Hr&quot;,&quot;min&quot;:&quot;Min&quot;,&quot;sec&quot;:&quot;Sec&quot;,&quot;any_moment&quot;:&quot;Any Moment&quot;,&quot;popup_donate_to&quot;:&quot;Donate to&quot;,&quot;extension_id&quot;:null},&quot;prefs&quot;:{&quot;desktopNotification&quot;:true,&quot;soundNotification&quot;:true,&quot;logLevel&quot;:0,&quot;enable&quot;:true,&quot;loop&quot;:false,&quot;hidePopup&quot;:false,&quot;autoPlay&quot;:false,&quot;autoBuffer&quot;:false,&quot;autoPlayOnBuffer&quot;:false,&quot;autoPlayOnBufferPercentage&quot;:42,&quot;autoPlayOnSmartBuffer&quot;:true,&quot;quality&quot;:&quot;default&quot;,&quot;fshd&quot;:false,&quot;onlyNotification&quot;:false,&quot;enableFullScreen&quot;:true,&quot;saveBandwidth&quot;:false,&quot;hideAnnotations&quot;:false,&quot;turnOffPagedBuffering&quot;:false}}" event="preferencesUpdated" id="myTubeRelayElementToPage"></mytubeelement><mytubeelement data="{&quot;loadBundle&quot;:true}" event="relayPrefs" id="myTubeRelayElementToTab"></mytubeelement></body></html>
