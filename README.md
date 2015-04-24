@@ -304,6 +304,7 @@
 
 [Virgo,                13:20,  -2](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=R5fyxvCixJiAaM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Virgo_constellation_map.png&docid=pYJQtkAfhDkwEM&imgurl=http://upload.wikimedia.org/wikipedia/commons/7/77/Virgo_constellation_map.png&w=2559&h=1989&ei=GgsMUqjYMuemygH174HABw&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=198&tbnw=255&start=0&ndsp=12&tx=131&ty=82)
 * [Visible Stars](http://www.rasnz.org.nz/31-constellation/226-virgo)
+* [Spica 13:25:11.60 -11:09:40.5 -00:00:42.5 -00:00:31.70]
 
 [Volans,               07:40, -69](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=JAs3ig5SdWlpuM:&imgrefurl=https://commons.wikimedia.org/wiki/File:Volans_constellation_map.png&docid=iGZknYdgdi0ctM&imgurl=https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Volans_constellation_map.png/975px-Volans_constellation_map.png&w=975&h=1024&ei=TQsMUtGpEoTwyQGLkYG4Aw&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=208&tbnw=198&start=0&ndsp=12&tx=96&ty=67)
 * [Visible Stars](http://www.rasnz.org.nz/31-constellation/196-hydrus)
