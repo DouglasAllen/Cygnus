@@ -253,9 +253,11 @@
 
 [Sagittarius,          19:00, -25](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=o54DTeHJ4MOg2M:&imgrefurl=http://astronomycentral.co.uk/m21-m30/&docid=VzReGx4niS2fJM&imgurl=http://astronomycentral.co.uk/wp-content/uploads/2010/01/Sagittarius_constellation_map.png&w=2269&h=1989&ei=RQQMUpXwHY7OyAGtr4CoBg&zoom=1&ved=1t:3588,r:44,s:0,i:221&iact=rc&page=4&tbnh=183&tbnw=209&start=44&ndsp=17&tx=94&ty=67)
 * [Visible Stars](http://www.rasnz.org.nz/31-constellation/216-saggitarius)
+* [Kaus Australis 18:24:10.35 -34:23:03.5 -00:00:39.6 -00:01:24.00]
 
 [Scorpius,             16:20, -26](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=ja_EhiQdz4yjuM:&imgrefurl=http://astronomycentral.co.uk/m1-m10/&docid=EZWPk8J14VO8IM&imgurl=http://astronomycentral.co.uk/wp-content/uploads/2010/01/Scorpius_constellation_map.png&w=2559&h=2559&ei=xwQMUq-BN6n_yQGYt4HQAw&zoom=1&ved=1t:3588,r:5,s:0,i:95&iact=rc&page=1&tbnh=176&tbnw=176&start=0&ndsp=15&tx=79&ty=57)
 * [Visible Stars](http://www.rasnz.org.nz/31-constellation/217-scorpius)
+* [Antares 16:29:24.47 -26:25:55.0 -00:00:10.2 -00:00:23.20]
 
 [Sculptor,             00:30, -35](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=o1o9_rh-T5xoRM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Sculptor_constellation_map.png&docid=Q4vGAuQVSmgq9M&imgurl=http://upload.wikimedia.org/wikipedia/commons/c/ce/Sculptor_constellation_map.png&w=2559&h=1709&ei=0QYMUrv_O6mEyAG92oGIDg&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=173&tbnw=260&start=0&ndsp=13&tx=152&ty=70)
 * [Visible Stars](http://www.rasnz.org.nz/31-constellation/218-sculptor)
@@ -276,6 +278,7 @@
 
 [Taurus,               04:30, +18](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=PfEH1HO_qSPhuM:&imgrefurl=http://commons.wikimedia.org/wiki/File:Taurus_constellation_map.png&docid=I2M4G7Vv42RMcM&imgurl=http://upload.wikimedia.org/wikipedia/commons/a/a1/Taurus_constellation_map.png&w=2559&h=2559&ei=FQoMUraQOKiSyQGSroGgCA&zoom=1&ved=1t:3588,r:1,s:0,i:83&iact=rc&page=1&tbnh=189&tbnw=189&start=0&ndsp=12&tx=79&ty=76)
 * [Visible Stars](http://www.rasnz.org.nz/31-constellation/221-taurus)
+* [Aldebaran 04:35:55.20 +16:30:35.1 +00:00:62.8 -00:01:89.40]
 
 [Telescopium,          19:00, -52](http://www.google.com/imgres?newwindow=1&hl=en&biw=1024&bih=649&tbs=isz:l&tbm=isch&tbnid=eYQRWML2LtuF8M:&imgrefurl=http://commons.wikimedia.org/wiki/File:Telescopium_constellation_map.png&docid=x9bkuccif16aEM&imgurl=http://upload.wikimedia.org/wikipedia/commons/2/21/Telescopium_constellation_map.png&w=1789&h=1559&ei=RwoMUoXFLrKEygHyx4B4&zoom=1&ved=1t:3588,r:0,s:0,i:80&iact=rc&page=1&tbnh=200&tbnw=230&start=0&ndsp=13&tx=111&ty=87)
 * [Visible Stars](http://www.rasnz.org.nz/31-constellation/168-ara)
