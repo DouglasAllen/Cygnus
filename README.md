@@ -430,3 +430,5 @@ Interesting Links
 [Rise/Set/Transit Times for Major Solar System Bodies and Bright Stars](http://aa.usno.navy.mil/data/docs/mrst.php)
 
 [Bright Star Search](http://asa.usno.navy.mil/SecH/BrightStarsSearch.html)
+
+[Star Guide](http://www.1america.com/astronomy/cat_guide_stars.htm)
